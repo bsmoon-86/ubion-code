@@ -1,0 +1,4955 @@
+[
+  {
+    "Index": "1037481",
+    "RawText": "안녕하세요~ ㅎㅎ 그동안 잘 지내셨나요? 오늘 소개 해드리고 싶은 운동화는 OOOO 327입니다!! 제가 최근에 구매하고 신고 다녔는데 너무 좋아서 알려 드리려 해요~  일단 신발 디자인이 너무 예쁜 것 같아요! 그래서 저는 너무 마음에 드는 것 같습니다~ㅎㅎ 개인적으로 색상도 어두워서 정말 좋아요! 착용감도 너무 좋아서 저는 데일리로 외출시마다 신고 다니는 것 같습니다~~ 사이즈는 정 사이즈 주문 하시면 될 것 같고 굽도 어느 정도 있어서 키도 조금 커 보이니 정말 좋은 것 같아요 ㅎㅎ 품질이 상당히 좋아서 저는 추천 드리고 싶습니다!!  OOOO 운동화 꼭 한 번 구매 해보세요~ 정말 좋은 것 같습니다 ㅎㅎ 추천 해요~!!",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 운동화",
+    "Syllable": "354",
+    "Word": "93",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "일단 신발 디자인이 너무 예쁜 것 같아요! ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "개인적으로 색상도 어두워서 정말 좋아요!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "착용감도 너무 좋아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성",
+        "SentimentText": "저는 데일리로 외출시마다 신고 다니는 것 같습니다~~ ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "치수/사이즈",
+        "SentimentText": "사이즈는 정 사이즈 주문 하시면 될 것 같고 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "굽",
+        "SentimentText": "굽도 어느 정도 있어서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "키도 조금 커 보이니 정말 좋은 것 같아요 ㅎㅎ ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 상당히 좋아서 저는 추천 드리고 싶습니다!!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037482",
+    "RawText": "안녕하세요!! 최근에 알게 된 어그인데 너무 좋아서 꼭 추천 드리고 싶어 글을 작성해봅니다!! 바로 OOO 후기 알려 드릴게요~ㅎㅎ  겨울에 저는 항상 어그를 신고 다니는 것 같아요!! 그래서 저는 이 어그가 가장 좋은 것 같아요~ 그 이유는 일단 가성비가 정말 좋아요! 가격 대비 품질이 너무 좋습니다~ 전체적인 마감 처리도 정말 잘 되어 있고 착용감도 너무 편한 것 같아요~ 오래 신어도 발이 아프지 않는 점이 너무 마음에 드는 것 같습니다!! 보온성도 정말 뛰어나 신으면 발이 따뜻해서 좋아요~ㅎㅎ  여러분도 어그 찾으시면 이걸로 추천 드리고 싶어요 너무 만족 하면서 신고 다닙니다~",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 클** 부츠",
+    "Syllable": "329",
+    "Word": "87",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "일단 가성비가 정말 좋아요! ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격 대비 품질이 너무 좋습니다~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "전체적인 마감 처리도 정말 잘 되어 있고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "착용감도 너무 편한 것 같아요~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "오래 신어도 발이 아프지 않는 점이 너무 마음에 드는 것 같습니다!! ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "보온성도 정말 뛰어나 신으면 발이 따뜻해서 좋아요~ㅎㅎ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037483",
+    "RawText": "날씨가 점점 추워지고 있습니다!! 이럴 땐 정말 어그를 신어 주는 게 따뜻한 것 같아요~ 그래서 오늘 소개 해드리고 싶은 어그가 있어서 글을 작성합니다!!  일단 이 어그 같은 경우에는 가성비 좋은 것 같아요~ 가격도 그렇게 비싸지 않고 품질은 좋아서 너무 좋아요!! 사이즈도 잘 맞는 것 같고 무엇보다 신발볼이 넓어서 편하게 신을 수 있어 좋네요~ 전체적인 착용감이 뛰어난 신발이라고 할 수 있습니다!! 보온성도 너무 좋아서 신으면 발이 따뜻해서 추운 겨울에 신고 다녀도 좋은 것 같아요!! 추천 드리고 싶습니다~ㅎㅎ  저는 너무 만족하면서 겨울에 신고 다니고 있어요~ 꼭 추천 드립니다 ㅎㅎ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 클** 부츠",
+    "Syllable": "332",
+    "Word": "87",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "일단 이 어그 같은 경우에는 가성비 좋은 것 같아요~",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 그렇게 비싸지 않고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질은 좋아서 너무 좋아요!! ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "치수/사이즈",
+        "SentimentText": "사이즈도 잘 맞는 것 같고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "치수/사이즈",
+        "SentimentText": "무엇보다 신발볼이 넓어서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "편하게 신을 수 있어 좋네요~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "전체적인 착용감이 뛰어난 신발이라고 할 수 있습니다!! ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "보온성도 너무 좋아서 신으면 발이 따뜻해서 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성",
+        "SentimentText": "추운 겨울에 신고 다녀도 좋은 것 같아요!! ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성",
+        "SentimentText": "겨울에 신고 다니고 있어요~ ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037484",
+    "RawText": "안녕하세요~ 오늘 소개 해드리고 싶은 신발은 바로 OOO 입니다!! 지금 같이 추운 날씨에 따뜻해서 딱 신기 좋은 신발을 소개 해드리고 싶었어요~ㅎㅎ  품질이 정말 좋은 신발이라고 할 수 있어요!! 일단 보온성이 정말 좋아서 추운 겨울에 신고 나가도 정말 따뜻해서 좋은 것 같습니다~ㅎㅎ 재질도 정말 고급스러워서 너무 좋은 것 같아요!! 쿠션감도 있어서 정말 발이 푹신해서 좋은 것 같습니다~ 그래서 오래 신고 걸어도 발이 아프지 않아요!! 디자인도 너무 예쁘고 신발 색상도 좋아서 엄청 만족하고 있네요!!  여러모로 너무 마음에 드는 신발이라 꼭 추천을 해 드리고 싶었어요~",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 클** 부츠",
+    "Syllable": "322",
+    "Word": "82",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능성",
+        "SentimentText": "지금 같이 추운 날씨에 따뜻해서 딱 신기 좋은 신발을 소개 해드리고 싶었어요~ㅎㅎ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 정말 좋은 신발이라고 할 수 있어요!! ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "일단 보온성이 정말 좋아서 추운 겨울에 신고 나가도 정말 따뜻해서 좋은 것 같습니다~ㅎㅎ",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질도 정말 고급스러워서 너무 좋은 것 같아요!! ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": " 쿠션감도 있어서 정말 발이 푹신해서 좋은 것 같습니다~",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "그래서 오래 신고 걸어도 발이 아프지 않아요!! ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 너무 예쁘고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "신발 색상도 좋아서 엄청 만족하고 있네요!!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037485",
+    "RawText": "안녕하세요!! 최근에 친구한테 이 신발을 선물 받았는데 정말 너무 만족하고 있어서 알려 드리고 싶어 후기 작성 해봅니다~ㅎㅎ  디자인이 정말 깔끔하고 세련된 것 같아요!! 하얀색 운동화 필요 했는데 친구가 딱 사줘서 정말 좋은 것 같습니다!! 사이즈는 정사이즈라 발에 잘 맞고 착화감도 너무 편안해서 좋은 것 같네요~ㅎㅎ 신발 쿠션감도 있어서 신고 나면 발이 편해서 좋은 것 같네요~ㅎㅎ 신발볼도 넓어서 너무 좋습니다!! 전체적인 품질이 너무 뛰어난 신발인 것 같아서 추천 드리고 싶어요!!  요새 제가 제일 좋아하는 신발을 소개 해드렸습니다!! 구매 추천 드리고 싶네요~ㅎㅎ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 어** 화이트 레더 스니커즈",
+    "Syllable": "322",
+    "Word": "80",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 정말 깔끔하고 세련된 것 같아요!! ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "하얀색 운동화 필요 했는데 친구가 딱 사줘서 정말 좋은 것 같습니다!! ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "치수/사이즈",
+        "SentimentText": "사이즈는 정사이즈라 발에 잘 맞고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "착화감도 너무 편안해서 좋은 것 같네요~ㅎㅎ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "신발 쿠션감도 있어서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "신고 나면 발이 편해서 좋은 것 같네요~ㅎㅎ ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "치수/사이즈",
+        "SentimentText": "신발볼도 넓어서 너무 좋습니다!!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "전체적인 품질이 너무 뛰어난 신발인 것 같아서 추천 드리고 싶어요!!",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037752",
+    "RawText": "안녕하세요? 끈 부분에 펄을 추가하여 단조롭지 않은 느낌을 살려주는 편안한 웨지 샌들을 여러분께 소개해 드릴게요.   먼저 이 제품은 선택의 폭이 넓게 다양한 색상이 준비되어 있구요~~ 부드러운 엘라스틱 밴드로 발등을 편안하게 감싸주어 걸음걸이가 \u0027사뿐사뿐\u0027 걸을 때마다 기분이 좋아집니다. 갑피 전체를 하이퀄리티 소가죽을 사용하여 착화감은 단연 최고입니다. 뒷꿈치 부분에 벨크로로 사이즈 조절도 가능해서 엄마와 동생과 함께 신어도 좋을 것 같아요. 키높이 효과를 주는 웨지힐은 편안함을 한결 더해 주네요.   이렇게 싼 가격에 소가죽 샌들을 갖게 되다니 여러 분들과 공유하고 싶어 소개드립니다.   ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 여성 소가죽 웨지 샌들 ",
+    "Syllable": "336",
+    "Word": "78",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "끈 부분에 펄을 추가하여 단조롭지 않은 느낌을 살려주는",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": " 편안한 웨지 샌들을 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "부드러운 엘라스틱 밴드로",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": " 발등을 편안하게 감싸주어 걸음걸이가 \u0027사뿐사뿐\u0027 걸을 때마다 기분이 좋아집니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "갑피 전체를 하이퀄리티 소가죽을 사용하여 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "착화감은 단연 최고입니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": " 뒷꿈치 부분에 벨크로로 사이즈 조절도 가능해서",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": " 키높이 효과를 주는 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": " 편안함을 한결 더해 주네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "이렇게 싼 가격에",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037753",
+    "RawText": "여름철 가볍고 편하게 신을 수 있는 웨지 샌들을 드디어 찾았습니다. 정말 편하고 예뻐서 여러분께 추천드립니다.   평발이라 신발 선택이 쉽지 않은데 이 신발은 발도 정말 편하고 소재도 너무 좋습니다. 신발 전체가 소가죽 소재라 편안하고 부드러워요. 발바닥이 닿는 곳에 쿠션처리가 되어 있어 신었을때 느낌도 좋고 안정적입니다. 굽도 웨지로 되어 있어 불편감이 전혀 없습니다. 사이즈 조절이 가능한 벨크로가 달려 있어 손쉽게 사이즈 조절도 가능해서 가족들과 함께 신어도 좋을 것 같아요.  전 특히 롱스커트에 매치해서 자주 신는데 꾸민듯 안꾸민듯한 심플한 느낌으로 너무 만족스럽습니다.",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 여성 소가죽 웨지 샌들 ",
+    "Syllable": "325",
+    "Word": "79",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사용성",
+        "SentimentText": "여름철 가볍고 편하게 신을 수 있는",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": " 발도 정말 편하고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재도 너무 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "신발 전체가 소가죽 소재라 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "편안하고 부드러워요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": " 발바닥이 닿는 곳에 쿠션처리가 되어 있어 신었을때 느낌도 좋고 안정적입니다. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 굽도 웨지로 되어 있어 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": " 불편감이 전혀 없습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "사이즈 조절이 가능한 벨크로가 달려 있어 손쉽게 사이즈 조절도 가능해서 ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "롱스커트에 매치해서 자주 신는데 꾸민듯 안꾸민듯한 심플한 느낌으로 너무 만족스럽습니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037754",
+    "RawText": "가격 대비 퀄리티가 정말 좋은 소가죽 펄 밴드 웨지 샌들을 소개해 드리려고 합니다.   발등도 가볍게 감싸주고 벨크로로 사이즈 조절도 가능하여 편하게 자주 신을 수 있는 샌들입니다. 발바닥 부분에도 쿠션 처리가 되어 있어 압력을 분산시켜 주어 오래 신어도 발이 편안하네요. 굽은 웨지 형태로 키높이 효과도 주고 지면 열기도 차단시켜 주어 여름철에 좋습니다. 초등학생인 막내딸도 예쁘다고 해서 한 켤레 더 주문했습니다. 소가죽 샌들을 이렇게 저렴한 가격에 겟하다니 정말 뿌듯합니다.   디자인도 세련되고 가격도 정말 착한 펄 밴드 웨지 샌들!! 이번 여름 베스트 아이템이 될 것 같아요.   ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 여성 소가죽 웨지 샌들 ",
+    "Syllable": "330",
+    "Word": "83",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격 대비 퀄리티가 정말 좋은",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "발등도 가볍게 감싸주고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "벨크로로 사이즈 조절도 가능하여",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": " 편하게 자주 신을 수 있는 샌들입니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "발바닥 부분에도 쿠션 처리가 되어 있어 압력을 분산시켜 주어 오래 신어도 발이 편안하네요.",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "굽",
+        "SentimentText": " 굽은 웨지 형태로",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": " 키높이 효과도 주고 지면 열기도 차단시켜 주어 여름철에 좋습니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "초등학생인 막내딸도 예쁘다고 해서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "소가죽 샌들을 이렇게 저렴한 가격에 겟하다니 정말 뿌듯합니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 세련되고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037755",
+    "RawText": "안녕하세요~~보이시한 느낌을 좋아해서 첼시 부츠 좋아하는데요. 오랜만에 괜찮은 제품 만나서 여러분께 소개해 드립니다.   전제적인 소재는 가죽은 아니고 합성피혁이구요~~발 입구 부분은 신축성 있는 소재로 되어있어 신고 벗기 수월합니다. 굽도 넓어서 발목 꺾임 없구요. 굽높이도 5.5cm로 적당하니 키높이 효과까지 있습니다. 어떤 옷에든 무난하게 잘 어울리고 매일 신어도 질리지 않게 새로운 스타일로 연출이 가능한 신발입니다. 디자인도 맘에 들고 무엇보다 신고 있어도 발이 편하고 안정감이 있습니다.   광택있는 편안한 부츠를 좋아하시는 분은 꼭 신어보시고 올 겨을 패션니스타에 도전해 보세요.  ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 워커부츠 여성부츠 ",
+    "Syllable": "334",
+    "Word": "74",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재는 가죽은 아니고 합성피혁이구요~~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "발 입구 부분은 신축성 있는 소재로 되어있어 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": " 신고 벗기 수월합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "굽",
+        "SentimentText": "굽도 넓어서 발목 꺾임 없구요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "굽",
+        "SentimentText": " 굽높이도 5.5cm로 적당하니",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "  키높이 효과까지 있습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "어떤 옷에든 무난하게 잘 어울리고 매일 신어도 질리지 않게 새로운 스타일로 연출이 가능한 신발입니다. ",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 디자인도 맘에 들고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "무엇보다 신고 있어도 발이 편하고 안정감이 있습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "광택있는",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "1037756",
+    "RawText": "평소 무거워 신지 않았던 레인부츠인데 정말 가볍고 편하다고 하여 주문하고 신고 있는데 비 오는 날에는 정말 최고네요.   약 290g 정도의 무게로 정말 가볍고 신기 편합니다. 고무보다는 가벼운 느낌이고 플라스틱보다는 말랑거리고 재질이 부드러워 구겨져도 복원력이 정말 좋고 충격 흡수도 뛰어난 것 같아요. 무엇보다 축축할까 걱정했는데 수분 흡수도 안되어 세균 번식 위험은 걱정 안해도 될 것 같아요. 바닥과의 밀착력도 좋아 비가 아무리 많이 와도 미끄러짐 없이 편하게 신고 다닙니다. 색상도 다양해서 저는 라이트그레이, 검정, 노란색 주문해서 그날 코디에 맞춰 신고 다닙니다.   정말 가볍고 촉감이 좋은 레인부츠입니다. 비 많이 오기 전에 언릉 구매하셔서 비오는 날도 편하게 외출하세요.~~",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 여성 숏 레인부츠 장화",
+    "Syllable": "387",
+    "Word": "94",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능성",
+        "SentimentText": "비 오는 날에는 정말 최고네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "약 290g 정도의 무게로 정말 가볍고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "신기 편합니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "고무보다는 가벼운 느낌이고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "플라스틱보다는 말랑거리고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질이 부드러워 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "구겨져도 복원력이 정말 좋고 충격 흡수도 뛰어난 것 같아요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "수분 흡수도 안되어 세균 번식 위험은 걱정 안해도 될 것 같아요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "바닥과의 밀착력도 좋아",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "비가 아무리 많이 와도 미끄러짐 없이",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037757",
+    "RawText": "100% 핸드메이드로 품질 좋은 제품~~ 올여름 시원하게 보내시라고 웨지힐 샌들을 여러분께 소개해 드릴게요.  에스빠드류 형태의 웨지힐 샌들이라 가볍고 색상도 네추럴하여 멋스럽게 신을 수 있는 신발입니다. 굽높이가 6.7cm정도 이지만, 앞굽도 1.7cm가 있어서 동일한 굽높이라도 훨씬 안정감있게 신을 수 있습니다. 또 굽도 넓어서 힘이 분산되어 발이 편하네요. 발볼을 감싸는 넓은 X자 스트랩은 안정감도 주고 발도 가늘게 보여서 신었을 때 정말 기분이 좋습니다.   편안함과 멋스러움이 함께하는 신발입니다. 올여름 요 아이템 잘 활용해보시면 좋을 것 같아요.",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 레** 웨지힐 샌들 4컬러 택1 ",
+    "Syllable": "314",
+    "Word": "72",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "100% 핸드메이드로 품질 좋은 제품~~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "에스빠드류 형태의 웨지힐 샌들이라",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 네추럴하여",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 멋스럽게 신을 수 있는 신발입니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "굽",
+        "SentimentText": "굽높이가 6.7cm정도 이지만, 앞굽도 1.7cm가 있어서 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "동일한 굽높이라도 훨씬 안정감있게 신을 수 있습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "굽",
+        "SentimentText": " 굽도 넓어서 힘이 분산되어",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": " 발이 편하네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "발볼을 감싸는 넓은 X자 스트랩은 안정감도 주고 발도 가늘게 보여서 신었을 때 정말 기분이 좋습니다. ",
+        "SentimentWord": "15",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037758",
+    "RawText": "핸드메이드 제품에 착화감도 좋은 웨지힐 샌들이 이 가격이라니!! 완전 횡재한 기분입니다.   색상도 4가지로 취향에 맞게 구매하실 수 있구요~~슬림한 웨지힐이라 전체적인 스타일도 얄쌍하니 발목도 얇아보이고 예뻐요. 굽높이도 7cm나 되서 다리도 엄청 길어보입니다. 밑창도 미끄럼방지 처리 잘 되어 있구요~~ 신고 벗기 편하게 밴드로 되어 있어 처음 신으실때 조절 해 놓으시면 편합니다. 진주 장식도 러블리하니 맘에 듭니다. 전체적인 소재가 친환경소재이고 발바닥 닿는 부분까지 부드러운 가죽으로 되어 있어 정말 신경 많이 써서 만든 제품이라는 느낌이 듭니다.   신을때마다 너무 편해서 기분 좋아지는 신발~강추 드립니다.",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 레** 웨지힐 샌들 4컬러 택1 ",
+    "Syllable": "346",
+    "Word": "79",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착화감",
+        "SentimentText": "착화감도 좋은",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "슬림한 웨지힐이라 전체적인 스타일도 얄쌍하니 발목도 얇아보이고 예뻐요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "굽",
+        "SentimentText": "굽높이도 7cm나 되서 다리도 엄청 길어보입니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "밑창도 미끄럼방지 처리 잘 되어 있구요~~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "신고 벗기 편하게 밴드로 되어 있어 처음 신으실때 조절 해 놓으시면 편합니다.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "진주 장식도 러블리하니 맘에 듭니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "전체적인 소재가 친환경소재이고 발바닥 닿는 부분까지 부드러운 가죽으로 되어 있어 ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "정말 신경 많이 써서 만든 제품이라는 느낌이 듭니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "신을때마다 너무 편해서 기분 좋아지는 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "웨지힐 샌들이 이 가격이라니!! 완전 횡재한 기분입니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037759",
+    "RawText": "\u0027천연 주트\u0027 우리나라 말로 황마로 만들어진 친환경 슈즈를 소개해 드릴게요.   S/S 시즌 패션 아이콘으로 불리는 잇아이템입니다. 신으면 가볍고 착화감이 부드러운 데일리 스니커즈로 100% 손바느질한 품질 좋은 핸드메이드 제품입니다. 벌집모양 메탈조직으로 통기성이 좋아 쾌적하고 시원합니다. 앞코는 에스빠드류 스니커즈 특유의 로프 장식이 되어 있어요. 또 각각의 컬러마다 다른 컬러로 매칭된 키높이형 더불 아웃솔이 단조롭지 않은 독특한 디자인입니다. 가죽이 너무 부드러워 발을 잘 잡아주지 못하는게 살짝 아쉽네요.   가격대비 정말 고급스러운 신발입니다. 트렌디한 디자인의 고급 신발을 이 가격에~~ 정말",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 올** 스니커즈 4컬러 택1 ",
+    "Syllable": "339",
+    "Word": "75",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "\u0027천연 주트\u0027 우리나라 말로 황마로 만들어진 친환경 슈즈를",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "신으면 가볍고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "착화감이 부드러운 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성",
+        "SentimentText": "데일리 스니커즈로 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "100% 손바느질한 품질 좋은 핸드메이드 제품입니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "벌집모양 메탈조직으로 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "통기성이 좋아 쾌적하고 시원합니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "앞코는 에스빠드류 스니커즈 특유의 로프 장식이 되어 있어요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "각각의 컬러마다 다른 컬러로 매칭된 키높이형 더불 아웃솔이 단조롭지 않은 독특한 디자인입니다. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "가죽이 너무 부드러워  발을 잘 잡아주지 못하는게 살짝 아쉽네요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1037760",
+    "RawText": "안녕하세요? 저렴한 가격의 메인드 인 스페인 스니커즈를 여러분께 소개해 드릴게요~~  이렇게 저렴한 가격에 핸드메인드 신발을!! 완전 득템입니다. 소재는 천연 가죽과 천연 주트(황마)를 사용했고 소재가 좋아서 그런지 신발은 정말 가볍고 가죽은 부드럽습니다. 살짝 아쉬운건 너무 부드러워 발을 꽉 잡아주지는 않는 것 같아요~~색상도 4종류로 차분차분한 색으로 구성되어 있어요. 3.5cm 정도의 적당한 굽높이로 편안함과 키높이 효과도 줍니다. 식물성 접착제만을 사용해서 그런지 새신발 특유의 냄새도 전혀 없습니다.   부드럽고 착화감 최고~전통적인 수작업으로 만들어진 올라 스니커즈!! 만나보시면 후회 없으실 거에요.",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 올** 스니커즈 4컬러 택1 ",
+    "Syllable": "344",
+    "Word": "74",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격의",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "이렇게 저렴한 가격에 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재는 천연 가죽과 천연 주트(황마)를 사용했고 소재가 좋아서 그런지",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "신발은 정말 가볍고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "가죽은  부드럽습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "살짝 아쉬운건 너무 부드러워 발을 꽉 잡아주지는 않는 것 같아요~~",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "굽",
+        "SentimentText": "3.5cm 정도의 적당한 굽높이로 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "편안함과",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": " 키높이 효과도 줍니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "새신발 특유의 냄새도 전혀 없습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037761",
+    "RawText": "클래식 하면서도 트렌디한 S/S 시즌 패션 아이콘으로 불리는 잇아이템을 소개해 드릴게요.   천연 가죽과 황마로 만들어진 친환경 신발입니다. 아주 가볍고 통기성이 우수하여 여름에 신기에도 정말 좋습니다. 4가지 색상 모두 예쁘고 고급스럽네요.~ 100% 손바느질과 식물성 접착제를 사용하여 만들어진 환경을 생각한 착한 신발입니다. 전체적인 디자인도 서로 다른 특수 호일 가죽으로 포인트 처리되어 있어 블링블링하고 화사하네요. 바닥창에 시그니처 로고도 한층 고급스러움을 더해 줍니다.   가볍고 가죽이 부드러워 데일리 슈즈로 정말 좋습니다. 꾸민듯안꾸민듯  올봄 화사한 패션니스타에 도전해 보세요.   ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 올** 스니커즈 4컬러 택1 ",
+    "Syllable": "336",
+    "Word": "72",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "천연 가죽과 황마로 만들어진 친환경 신발입니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "아주 가볍고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "통기성이 우수하여 여름에 신기에도 정말 좋습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "100% 손바느질과 식물성 접착제를 사용하여 만들어진 환경을 생각한 착한 신발입니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "전체적인 디자인도 서로 다른 특수 호일 가죽으로 포인트 처리되어 있어 블링블링하고 화사하네요. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "바닥창에 시그니처 로고도 한층 고급스러움을 더해 줍니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": " 가죽이 부드러워 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성",
+        "SentimentText": "데일리 슈즈로 정말 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037762",
+    "RawText": "독특하고 멋스러운 신발 서치하다가 우연히 발견한 신발입니다. 소재도 특이하고 디자인도 블링블링하여 정말 만족스럽네요.   거기다가 환경까지 생각한 친환경 신발이라고 합니다. 전체 가죽소재이고 부분부분 황마로 만들어져 있습니다. 발등부분은 벌집모양 메탈조직으로 통기성도 정말 좋아 쾌적하고 시원합니다. 바느질도 100% 수작업이고 식물성 접착제로 만들어 새신발 냄새도 전혀 없네요. 키높이형 더블 아웃솔로 3.5cm정도의 키높이 효과도 있어 키작은 저에게는 흡잡을 데 없는 최고의 신발입니다.   올 봄 요제품 겟하셔서 멋지게 코디해 보세요. 강력 추천합니다.   ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 올** 스니커즈 4컬러 택1 ",
+    "Syllable": "315",
+    "Word": "66",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재도 특이하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 블링블링하여 정말 만족스럽네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "환경까지 생각한 친환경 신발이라고 합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "전체 가죽소재이고 부분부분 황마로 만들어져 있습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 발등부분은 벌집모양 메탈조직으로 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "통기성도 정말 좋아 쾌적하고 시원합니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "바느질도 100% 수작업이고 식물성 접착제로 만들어 새신발 냄새도 전혀 없네요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "키높이형 더블 아웃솔로 3.5cm정도의 키높이 효과도 있어 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037936",
+    "RawText": "안녕하세요~ 제가 최근에 신어 보고 가져 온 OOO 레더 스판덱스 앵클 부츠입니다~~ㅎㅎ 품질이 정말 좋아서 너무 좋은 것 같아요!!ㅎㅎ~~후기 시작할게요!!  가격은 비싸긴 하지만 정말 신발 퀄리티가 높은 것 같아요!! 정말 뛰어난 신발이라 꼭 소개를 해드리고 싶었어요!! 소재도 고급스럽고 재질도 좋아요!! 신었을 때 착용감이 정말 뛰어나서 오래 신고 다녀도 발이 아프지 않습니다!! 디자인도 예쁘고 색상도 고급스럽습니다!! 개인적으로 신발 냄새가 많이 나지 않아서 정말 좋았던 것 같아요!!ㅎㅎㅎ  여러모로 뛰어나서 추천 드리고 싶은 OOO 앵클 부츠입니다~ 여러분도 꼭 사보세요~",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 레더 앵클 부츠 ",
+    "Syllable": "328",
+    "Word": "76",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 정말 좋아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싸긴 하지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "정말 신발 퀄리티가 높은 것 같아요!! ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재도 고급스럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질도 좋아요!! ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "신었을 때 착용감이 정말 뛰어나서 오래 신고 다녀도 발이 아프지 않습니다!! ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 디자인도 예쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 고급스럽습니다!! ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "신발 냄새가 많이 나지 않아서 정말 좋았던 것 같아요!!ㅎㅎㅎ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037937",
+    "RawText": "안녕하세요!! 추천 드리고 싶은 신발이 있어서 가져 왔습니다!! 바로 OOO 레더 스판덱스 앵클 부츠입니다~~ 구매 후기 바로 알려 드릴게요 ㅎㅎ  일단 디자인이 너무 예쁜 것 같아요!! 색상도 고급스럽고 무엇보다 신었을 때 착용감이 정말 편해서 좋은 것 같습니다!! 오래 신고 다녀도 발이 편안해서 정말 좋은 것 같네요!! 가격은 비싸긴 하지만 확실히 품질이 너무 좋아서 신발은 이런 걸 사야 하는구나 느꼈습니다!! OOO는 진짜 너무 좋은 것 같아요~ 여러분도 한 번 경험 해보셨으면 좋겠습니다!!  OOO 앵클 부츠 정말 퀄리티 뛰어난 것 같아요~ㅎㅎ 굽도 있어서 키도 커 보여요~",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 레더 앵클 부츠 ",
+    "Syllable": "328",
+    "Word": "84",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 너무 예쁜 것 같아요!! ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 고급스럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "신었을 때 착용감이 정말 편해서 좋은 것 같습니다!!",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "오래 신고 다녀도 발이 편안해서 정말 좋은 것 같네요!! ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싸긴 하지만 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "확실히 품질이 너무 좋아서 신발은 이런 걸 사야 하는구나 느꼈습니다!!",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "OOO 앵클 부츠 정말 퀄리티 뛰어난 것 같아요~ㅎㅎ ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "굽",
+        "SentimentText": "굽도 있어서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "키도 커 보여요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037938",
+    "RawText": "안녕하세요~ ㅎㅎ 오늘 추천 드리고 싶은 신발이 있어서 후다닥 달려 왔습니다!! OOO 레더 스판덱스 앵클 부츠입니다!! 바로 후기 알려 드릴게요~ㅎㅎ  OOO 신발은 제가 제일 좋아하는 신발 브랜드에요~ 지퍼도 잘 올라가고~ 굽도 정말 딱 적당해서 키가 커 보이는 것 같습니다!! 가죽 재질도 정말 부드럽고 소재도 고급스러워서 너무 좋아요~디자인도 너무 예쁜 것 같고 색상도 정말 예뻐서 요새는 이 부츠만 신고 다니는 것 같아요! 착용감도 편안해서 데일리로 신고 다녀도 정말 좋은 것 같습니다~~ㅎㅎㅎ  앵클 부츠 찾으시면 OOO에서 구매 하시는 게 어떠신가요~?ㅎㅎ 완전 추천 드리고 싶어요!",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 레더 앵클 부츠 ",
+    "Syllable": "333",
+    "Word": "82",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "지퍼도 잘 올라가고~ ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "굽",
+        "SentimentText": "굽도 정말 딱 적당해서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "키가 커 보이는 것 같습니다!!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "가죽 재질도 정말 부드럽고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재도 고급스러워서 너무 좋아요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 너무 예쁜 것 같고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 정말 예뻐서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성",
+        "SentimentText": "요새는 이 부츠만 신고 다니는 것 같아요! ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "착용감도 편안해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성",
+        "SentimentText": "데일리로 신고 다녀도 정말 좋은 것 같습니다~~ㅎㅎㅎ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037939",
+    "RawText": "안녕하세요~ ㅎㅎ 오늘 소개 해드리고 싶은 부츠는 OOO 레더 스판덱스 앵클 부츠입니다!! 많이 궁금 하셨죠? 지체 없이 바로 후기 알려 드리도록 할게요~ㅎㅎ  OOO는 진짜 믿고 구매할 수 있는 것 같아요!! 품질이 너무 좋은 브랜드라 저는 항상 구매를 하는 것 같습니다~ 가격은 비싸지만 정말 사길 잘했다는 생각이 들어요~ 가죽의 재질이 너무 부드럽고 소재도 정말 좋은 것 같습니다!! 신었을 때 착용감도 너무 편안해요!! 그래서 오래 신고 다녀도 발이 아프지 않아 좋은 것 같습니다!! 개인적으로 굽도 딱 적당해서 좋네요~  여러모로 품질이 너무 좋은 OOO 앵클 부츠에요!! 추천 드리고 싶네요~ㅎㅎ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 레더 앵클 부츠 ",
+    "Syllable": "339",
+    "Word": "86",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싸지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "가죽의 재질이 너무 부드럽고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재도 정말 좋은 것 같습니다!! ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "신었을 때 착용감도 너무 편안해요!!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": " 오래 신고 다녀도 발이 아프지 않아 좋은 것 같습니다!! ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "굽",
+        "SentimentText": "굽도 딱 적당해서 좋네요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "여러모로 품질이 너무 좋은 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037940",
+    "RawText": "친구가 신고 나온 걸 봤는데 너무 예뻐서 저도 사고 싶어 이번에 하나 장만을 했습니다!! 진짜 사길 잘 했다는 생각이 들어서 추천 드리기 위해 가져 왔어요!!  일단 디자인이 너무 예쁜 것 같아요!! 진짜 여성스러운 신발인 것 같아요~ㅎㅎ 색상도 정말 예쁜 것 같습니다 ㅎㅎ 사이즈도 딱 잘 맞고 착용감도 너무 편해서 데일리 운동화로 신고 다녀도 손색이 없는 것 같아요!! 양가죽 소재가 너무 부드러워서 정말 좋은 것 같아요~ㅎㅎ 여러모로 신발 퀄리티가 너무 높아서 꼭 추천 드리고 싶었습니다~ 제 최애 신발 등극이에요!!  오늘 후기는 여기서 마치도록 하겠습니다~ㅎㅎ 저는 꼭 추천 드리고 싶어요~ㅎㅎ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 베이지 양가죽 스니커즈",
+    "Syllable": "337",
+    "Word": "88",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "친구가 신고 나온 걸 봤는데 너무 예뻐서 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 너무 예쁜 것 같아요!! ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 정말 예쁜 것 같습니다 ㅎㅎ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "치수/사이즈",
+        "SentimentText": "사이즈도 딱 잘 맞고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "착용감도 너무 편해서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성",
+        "SentimentText": "데일리 운동화로 신고 다녀도 손색이 없는 것 같아요!! ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "양가죽 소재가 너무 부드러워서 정말 좋은 것 같아요~ㅎㅎ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "여러모로 신발 퀄리티가 너무 높아서 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037941",
+    "RawText": "안녕하세요!! 그동안 잘 지내셨나요~~ 오늘은 제가 제일 좋아하는 신발을 소개 해드리기 위해 왔어요!! 아직 모르시는 분들이 많으신 것 같아서 소개 해드립니다!!  착화감이 정말 뛰어난 신발이에요~ 밑창에 쿠션감도 있어서 오래 신고 다녀도 발이 아프지 않아요! 사이즈도 정말 잘 맞게 나왔어요~ 양가죽 소재가 정말 좋은 것 같습니다!! 신발 냄새도 많이 나지 않고 전체적인 신발 퀄리티가 정말 높아서 마음에 듭니다!! 무엇보다 디자인이 너무 예쁘고 색도 정말 예뻐서 당분간은 이 신발만 신고 다닐 것 같아요!! 완전 추천 합니다 ㅎㅎ  여러모로 품질이 정말 좋은 신발이라 꼭 소개를 해드리고 싶었어요~ㅎㅎ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 베이지 양가죽 스니커즈",
+    "Syllable": "338",
+    "Word": "84",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착화감",
+        "SentimentText": "착화감이 정말 뛰어난 신발이에요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": " 밑창에 쿠션감도 있어서 오래 신고 다녀도 발이 아프지 않아요!",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "치수/사이즈",
+        "SentimentText": "사이즈도 정말 잘 맞게 나왔어요~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": " 양가죽 소재가 정말 좋은 것 같습니다!!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "신발 냄새도 많이 나지 않고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "전체적인 신발 퀄리티가 정말 높아서 마음에 듭니다!! ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 너무 예쁘고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색도 정말 예뻐서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "여러모로 품질이 정말 좋은 신발이라 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037942",
+    "RawText": "안녕하세요!! 이 신발 후기를 알려 달라는 분들이 많으셔서 이번에 후기를 가져 오게 되었습니다!! 바로 후기 알려 드리도록 할게요!! ㅎㅎ  확실히 착용감이 정말 좋은 신발인 것 같아요!! 양가죽 소재라 그런지 부드럽기 까지 하네요~ 신고 오래 다녀도 발에 불편함이 없어서 너무 좋은 것 같습니다!! 색도 예쁜 베이지라 좋고 디자인도 고급스러워 괜찮네요!! 운동화 끈으로 되어있어 신고 벗고 편하게 할수 있어 좋습니다!! 새 신발인데 냄새도 많이 나지 않아서 좋았던 것 같아요!!ㅎㅎ 저는 너무 마음에 듭니다~  여러모로 진짜 좋은 신발인 것 같아서 추천 드리고 싶었어요!! 꼭 한 번 신어 보세요~",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 베이지 양가죽 스니커즈",
+    "Syllable": "335",
+    "Word": "85",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착화감",
+        "SentimentText": "확실히 착용감이 정말 좋은 신발인 것 같아요!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": " 양가죽 소재라 그런지 부드럽기 까지 하네요~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "신고 오래 다녀도 발에 불편함이 없어서 너무 좋은 것 같습니다!!",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색도 예쁜 베이지라 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 고급스러워 괜찮네요!!",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "신고 벗고 편하게 할수 있어 좋습니다!!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "새 신발인데 냄새도 많이 나지 않아서 좋았던 것 같아요!!ㅎㅎ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037943",
+    "RawText": "안녕하세요~~ 잘 지내셨나요!! 오늘 소개 해드리고 싶은 신발은 바로 OOO 베이지 양가죽 스니커즈입니다!! 기대가 되시죠? 바로 시작 하도록 할게요~ㅎㅎ  일단 이 신발 같은 경우에는 신었을 때 정말 발이 편안한 것 같아요!! 신발 소재도 정말 고급스러워서 좋은 것 같습니다!! 디자인도 상당히 예쁘게 만들어서 마음에 들어요~ 색상도 고급스러운 베이지라 정말 예쁘네요~ 착용감이 너무 좋아서 오래 신고 걸어 다녀도 발이 아프지 않아 좋은 것 같아요~ 왜 이런 신발을 이제야 알았을까 하는 아쉬움이 생기네요~ㅎㅎ  여러 코디에도 활용하기 좋은 신발이에요!! 정말 완전 추천 드리고 싶은 신발입니다!",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 베이지 양가죽 스니커즈",
+    "Syllable": "334",
+    "Word": "81",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착화감",
+        "SentimentText": "신었을 때 정말 발이 편안한 것 같아요!!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "신발 소재도 정말 고급스러워서 좋은 것 같습니다!!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 상당히 예쁘게 만들어서 마음에 들어요~ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 고급스러운 베이지라 정말 예쁘네요~ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "착용감이 너무 좋아서 오래 신고 걸어 다녀도 발이 아프지 않아 좋은 것 같아요~",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성",
+        "SentimentText": "여러 코디에도 활용하기 좋은 신발이에요!! ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037944",
+    "RawText": "최근에 친구한테 소개를 받아서 이 신발을 구매하게 되었는데 정말 너무 좋아서 여러분에게도 추천을 드리고자 후기를 가져 왔습니다!! 바로 후기 시작할게요~  일단 발이 너무 편안해서 정말 좋았던 것 같아요!! 착용감이 정말 좋았던 것 같습니다~ 오래 신고 다녀도 발이 불편하지 않아 좋았네요!! 개인적으로 저는 할인 기간에 구매를 해서 보다 저렴하게 사서 좋았던 것 같네요~~ 사이즈는 잘 맞고 색상도 고급스러워 좋았습니다!! 벨트 디자인이 정말 고급스러워 마음에 드네요~~ 새 신발 냄새도 많이 나지 않아 좋았네요~  여러모로 너무 마음에 드는 부츠인 것 같아요!! 당분간 이 부츠만 신을 것 같습니다~ㅎㅎ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 모** 부츠 ",
+    "Syllable": "339",
+    "Word": "84",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착화감",
+        "SentimentText": " 발이 너무 편안해서 정말 좋았던 것 같아요!!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "착용감이 정말 좋았던 것 같습니다~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "오래 신고 다녀도 발이 불편하지 않아 좋았네요!! ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인 기간에 구매를 해서 보다 저렴하게 사서 좋았던 것 같네요~~ ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "치수/사이즈",
+        "SentimentText": "사이즈는 잘 맞고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 고급스러워 좋았습니다!!",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 벨트 디자인이 정말 고급스러워 마음에 드네요~~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "새 신발 냄새도 많이 나지 않아 좋았네요~",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037945",
+    "RawText": "안녕하세요!! 여러분께서 많이 요청 하셨던 OOO 모에나 부츠 후기를 드디어 가져오게 되었습니다!! 긴 말 필요 없이 바로 알려 드리도록 할게요!!  확실히 품질이 정말 뛰어난 신발인 것 같아요~ 전체적인 마감 처리가 너무 잘 되어 있고 가죽 재질이 정말 고급스러운 것 같아요!! 신발 냄새도 많이 나지 않고 밑창도 튼튼해서 뜯어 지지 않게 제작이 되어 있는 것 같습니다!! 발 사이즈도 정말 잘 맞는 것 같고 착용감도 좋아서 오래 신고 다녀도 발이 아프지 않다는 점이 이 신발의 최고 장점이 아닌가 하는 생각이 드네요!!  저는 요새 너무 잘 신고 다니는 것 같아요~~ 꼭 한 번 신어 보세요~ㅎㅎ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 모** 부츠 ",
+    "Syllable": "335",
+    "Word": "92",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "확실히 품질이 정말 뛰어난 신발인 것 같아요~",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "전체적인 마감 처리가 너무 잘 되어 있고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "가죽 재질이 정말 고급스러운 것 같아요!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "신발 냄새도 많이 나지 않고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "밑창도 튼튼해서 뜯어 지지 않게 제작이 되어 있는 것 같습니다!!",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "치수/사이즈",
+        "SentimentText": "발 사이즈도 정말 잘 맞는 것 같고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "착용감도 좋아서 오래 신고 다녀도 발이 아프지 않다는 점이 이 신발의 최고 장점이 아닌가 하는 생각이 드네요!!",
+        "SentimentWord": "17",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037946",
+    "RawText": "안녕하세요~ 오늘 추천 드리고 싶은 신발은 OOO 모에나 부츠입니다!! 얼른 구매 후기 시작하도록 할게요~ 제 최애 신발입니다 ㅎㅎ  저는 면세점에서 구입을 해서 신게 되었습니다~ 그래서 가격을 더 저렴하게 주고 산 것 같아요!! 일단 착용감이 정말 뛰어난 신발이라 좋아요!! 가죽 재질이 부드러워 발이 편안한 것 같습니다~ㅎㅎ 가죽 냄새도 많이 나지 않고 무게도 가볍고 쿠션감도 느껴져 오래 신고 다녀도 발이 불편하지 않아 너무 좋네요~~ 저는 데일리 운동화 개념으로 신고 다니는 것 같습니다!!  여러모로 너무 품질이 좋아서 여러분에게 꼭 추천을 드리고 싶었어요~",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 모** 부츠 ",
+    "Syllable": "317",
+    "Word": "79",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격을 더 저렴하게 주고 산 것 같아요!! ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "착용감이 정말 뛰어난 신발이라 좋아요!!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "가죽 재질이 부드러워 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "발이 편안한 것 같습니다~ㅎㅎ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가죽 냄새도 많이 나지 않고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게도 가볍고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": " 쿠션감도 느껴져 오래 신고 다녀도 발이 불편하지 않아 너무 좋네요~~ ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성",
+        "SentimentText": " 데일리 운동화 개념으로 신고 다니는 것 같습니다!!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "여러모로 너무 품질이 좋아서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037947",
+    "RawText": "어그의 계절이 돌아온 것 같아요!! 그만큼 지금 밖에 날씨가 너무 춥고 조금 있으면 눈까지 온다고 하니까 꼭 필요한 신발인 것 같습니다~ 바로 리뷰 알려 드릴게요!!  제가 이 어그를 추천 드리는 이유는 품질이 너무 좋기 때문이에요~ㅎㅎ 정말 착용감이 뛰어나고 무엇보다 보온성이 정말 좋아 눈이 오는 날 신어도 발이 시렵지 않아 좋았던 것 같습니다!! 사이즈도 잘 맞고 재질도 좋고 소재도 부드러워 너무 좋네요~~ 신발 냄새도 많이 안나고 미끄럼 방지까지 되니까 안전하게 빙판길 다닐 수 있어 좋았던 것 같습니다!!  여러모로 품질이 상당히 뛰어난 어그인 것 같아요~ 올 겨울 이 친구와 함께 하세요~ㅎㅎ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 클** 부츠",
+    "Syllable": "338",
+    "Word": "89",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": " 품질이 너무 좋기 때문이에요~ㅎㅎ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "정말 착용감이 뛰어나고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "무엇보다 보온성이 정말 좋아 눈이 오는 날 신어도 발이 시렵지 않아 좋았던 것 같습니다!! ",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "치수/사이즈",
+        "SentimentText": "사이즈도 잘 맞고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재도 부드러워 너무 좋네요~~ ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "신발 냄새도 많이 안나고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "미끄럼 방지까지 되니까 안전하게 빙판길 다닐 수 있어 좋았던 것 같습니다!!",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "여러모로 품질이 상당히 뛰어난 어그인 것 같아요~",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037948",
+    "RawText": "와 진짜 이 신발은 왜 이제야 알게 되었을까 하는 기분이 드네요!! 그만큼 구매 후 너무 만족하고 있는 신발이라 추천 드리기 위해 왔습니다~ㅎㅎ  가격도 그렇게 비싸지 않아서 정말 좋은 것 같습니다~~ 품질은 너무 좋아서 가성비 넘치는 어그라고 할 수 있겠어요!! 확실히 겨울에 신기 너무 좋은 것 같아요!! 그만큼 정말 보온성이 뛰어난 것 같습니다~~ㅎㅎ 전체적인 신발 마감 처리도 너무 잘 되어 있고 재질도 좋고 소재도 포근해서 착용감이 정말 뛰어난 어그인 것 같네요~~ 여러모로 너무 마음에 드는 신발입니다!!  어그 찾으시면 저는 이 어그를 추천 드리고 싶어요!!! 얼른 구매하시길 바랄게요~ㅎㅎ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 클** 부츠",
+    "Syllable": "337",
+    "Word": "86",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 그렇게 비싸지 않아서 정말 좋은 것 같습니다~~ ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질은 너무 좋아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가성비 넘치는 어그라고 할 수 있겠어요!!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성",
+        "SentimentText": "확실히 겨울에 신기 너무 좋은 것 같아요!! ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "그만큼 정말 보온성이 뛰어난 것 같습니다~~ㅎㅎ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "전체적인 신발 마감 처리도 너무 잘 되어 있고 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재도 포근해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "착용감이 정말 뛰어난 어그인 것 같네요~~ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037949",
+    "RawText": "안녕하세요~~ 최근에 이 OO 후기가 궁금하시다는 분들이 많으셔서 야심차게 이번에 준비를 하게 되었습니다~ 많이 궁금하시죠?? 바로 후기 시작할게요 ㅎㅎ  확실히 겨울에는 OO를 신어야 되는 것 같아요!! 다른 신발 신고 나가면 발이 너무 차가운데 이 신발을 신고 나가면 보온성이 너무 좋아서 발이 정말 따뜻한 것 같습니다~ 착용감도 정말 좋고 쿠션감도 있어서 오래 신고 다녀도 발이 편안하네요~ 미끄럼 방지까지 되니까 안전하기 까지 한 것 같아요!! 디자인 너무 예쁘고 색상도 정말 좋아서 저는 요새 매일 신고 다녀요!!  겨울에 신기 좋은 OO를 가져 왔습니다~~ 전체적인 제품 퀄리티가 너무 좋네요~ㅎㅎ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 클** 부츠",
+    "Syllable": "340",
+    "Word": "85",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능성",
+        "SentimentText": "이 신발을 신고 나가면 보온성이 너무 좋아서 발이 정말 따뜻한 것 같습니다~ ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "착용감도 정말 좋고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "쿠션감도 있어서 오래 신고 다녀도 발이 편안하네요~",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": " 미끄럼 방지까지 되니까 안전하기 까지 한 것 같아요!!",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 너무 예쁘고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 정말 좋아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성",
+        "SentimentText": "요새 매일 신고 다녀요!!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성",
+        "SentimentText": "겨울에 신기 좋은 OO를 가져 왔습니다~~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 전체적인 제품 퀄리티가 너무 좋네요~ㅎㅎ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037950",
+    "RawText": "날씨가 점점 추워지는 것 같습니다!! 그냥 신발을 신고 나갔더니 발이 너무 차가운 것 같아서 이번에 겨울에 신기 좋은 OO를 준비 했습니다~ 바로 후기 알려 드릴게요!!  확실히 OO라 그런지 보온성이 정말 좋은 것 같아요~ 신기만 해도 발이 너무 따뜻해서 한 겨울에도 발이 차갑지 않아 좋은 것 같습니다!! 미끄럼 방지 기능까지 있어서 빙판에서도 안전하게 신을 수 있다는 점이 정말 좋은 것 같네요~~ 개인적으로 사이즈도 참 잘 맞고 새 신발 냄새도 나지 않고 마감 처리도 꼼꼼하게 다 잘 되어 있어 만족 했습니다!!  전체적인 품질이 상당히 좋은 OO인 것 같습니다~~ 꼭 한번 구매 해보세요~",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 클** 부츠",
+    "Syllable": "334",
+    "Word": "90",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사용성",
+        "SentimentText": "겨울에 신기 좋은",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "확실히 OO라 그런지 보온성이 정말 좋은 것 같아요~",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "신기만 해도 발이 너무 따뜻해서 한 겨울에도 발이 차갑지 않아 좋은 것 같습니다!! ",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "미끄럼 방지 기능까지 있어서 빙판에서도 안전하게 신을 수 있다는 점이 정말 좋은 것 같네요~~ ",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "치수/사이즈",
+        "SentimentText": "사이즈도 참 잘 맞고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "새 신발 냄새도 나지 않고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "마감 처리도 꼼꼼하게 다 잘 되어 있어 만족 했습니다!!",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 상당히 좋은 OO인 것 같습니다~~ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037951",
+    "RawText": "안녕하세요~ㅎㅎ 오늘 추천 드리고 싶은 신발은 바로 OOO 입니다~~ 궁금하시죠?? 바로 후기 알려 드리도록 할게요!! 시작합니다!  많은 분들이 이 신발을 궁금해 하셔서 직접 구매를 하게 되었습니다!! 일단 겨울에 신기 너무 좋은 것 같아요~ 발이 정말 따뜻해서 너무 좋은 것 같습니다!! 사이즈도 정말 잘 맞고 무엇보다 보온성이 최고인 것 같아요~ 디자인도 정말 예쁘고 쿠션감도 충분해서 오래 신고 걸어 다녀도 발이 안 아파서 정말 좋았던 것 같습니다~~ 이 신발 굉장히 좋은 것 같네요~  올 겨울 엄청 춥다고 하는데 이 신발 신으셨으면 참 좋겠습니다~ ㅎㅎ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 클** 부츠",
+    "Syllable": "315",
+    "Word": "82",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사용성",
+        "SentimentText": " 겨울에 신기 너무 좋은 것 같아요~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "발이 정말 따뜻해서 너무 좋은 것 같습니다!!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "치수/사이즈",
+        "SentimentText": "사이즈도 정말 잘 맞고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": " 무엇보다 보온성이 최고인 것 같아요~ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 정말 예쁘고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "쿠션감도 충분해서 오래 신고 걸어 다녀도 발이 안 아파서 정말 좋았던 것 같습니다~~",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037952",
+    "RawText": "안녕하세요!! 오늘 추천 드리고 싶은 신발은 바로 OOO 쿠션 플랫슈즈입니다!! 제가 제일 좋아하는 신발이라 꼭 추천을 드리고 싶었어요~ 바로 후기 시작할게요!!  제가 이 신발을 추천 드리는 이유는 정말 디자인이 예쁘기 때문이에요!! 색상도 마음에 들고 무엇보다 신었을 때 쿠션감이 너무 좋아 착용감이 편안한 것 같습니다!! 데일리 운동화로 신고 다녀도 좋을 만큼 정말 발이 편안해서 좋았던 것 같습니다!! 품질이 상당히 뛰어난 플랫 슈즈라 추천 드리고 싶었어요~ 저는 요새 매일 매일 신고 다니는 것 같습니다!! 완전 추천 해요~  여러모로 너무 좋은 플랫 슈즈라 꼭 추천 드리고 싶었네요~ㅎㅎ 후기 마칠게요!!",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 쿠션 플랫슈즈 ",
+    "Syllable": "344",
+    "Word": "86",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "정말 디자인이 예쁘기 때문이에요!!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 마음에 들고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "신었을 때 쿠션감이 너무 좋아 착용감이 편안한 것 같습니다!!",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성",
+        "SentimentText": "데일리 운동화로 신고 다녀도 좋을 만큼",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "정말 발이 편안해서 좋았던 것 같습니다!!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 상당히 뛰어난 플랫 슈즈라",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성",
+        "SentimentText": "요새 매일 매일 신고 다니는 것 같습니다!!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037953",
+    "RawText": "안녕하세요!! 여름에 신기 좋은 슬리퍼를 알려 드리기 위해 왔습니다!! 후기 바로 시작 하도록 할게요!! 기대 하셔도 좋습니다~ㅎㅎ  이 슬리퍼 같은 경우에는 제가 제일 좋아하는 OOO에서 나온 제품이에요~ 가격도 그렇기 비싸지 않은데 품질이 너무 좋아서 가성비 최고인 것 같습니다!! 착용감도 너무 편안하고 소재도 부드럽네요~~ 마감도 정말 잘 되어 있는 것 같네요!! 품질도 정말 좋아서 만족하고 있습니다~ 발가락 사이 끼는 부분도 부드럽게 만들어서 발가락이 아프지 않아서 좋은 것 같네요!!  여러모로 너무 좋은 OOO 슬리퍼라 추천 드리고 싶었어요!! 꼭 신어 보세요~",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 컴포트 슬리퍼",
+    "Syllable": "322",
+    "Word": "78",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사용성",
+        "SentimentText": "여름에 신기 좋은 슬리퍼를 알려 드리기 위해 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 그렇기 비싸지 않은데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 너무 좋아서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 최고인 것 같습니다!! ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "착용감도 너무 편안하고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재도 부드럽네요~~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "마감도 정말 잘 되어 있는 것 같네요!! ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 정말 좋아서 만족하고 있습니다~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": " 발가락 사이 끼는 부분도 부드럽게 만들어서 발가락이 아프지 않아서 좋은 것 같네요!!",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037954",
+    "RawText": "안녕하세요!! 이제 여름이 왔습니다!! 여름에는 슬리퍼의 계절이죠~ 이럴 때 신기 좋은 슬리퍼인 OOO 컴포트 플립플랍 후기 가져 왔습니다 ㅎㅎ  사이즈도 딱 잘 맞는 것 같고 무게도 가벼워 정말 좋은 것 같네요~~ 개인적으로 착용감도 너무 편해서 요새는 이 슬리퍼만 신고 다니는 것 같아요!! 발가락 끼우는 부분도 재질이 부드러워서 오래 신고 다녀도 엄지 발가락이 아프지 않아 좋았습니다!! 밑창도 푹신해서 참 좋았네요~~ 가격 대비 품질이 상당히 좋은 슬리퍼라 슬리퍼 좋아하시는 분들은 꼭 구매 해보시길 바랄게요!!  저는 너무 만족하며 신고 다니고 있습니다~~ 디자인도 너무 예쁜 것 같아요!",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 컴포트 슬리퍼",
+    "Syllable": "334",
+    "Word": "83",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "치수/사이즈",
+        "SentimentText": "사이즈도 딱 잘 맞는 것 같고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게도 가벼워 정말 좋은 것 같네요~~ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "착용감도 너무 편해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "발가락 끼우는 부분도 재질이 부드러워서 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "밑창도 푹신해서 참 좋았네요~~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격 대비 품질이 상당히 좋은 슬리퍼라",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 너무 예쁜 것 같아요!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "오래 신고 다녀도 엄지 발가락이 아프지 않아 좋았습니다!!",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037955",
+    "RawText": "안녕하세요!! 오늘 추천 드리고 싶은 신발은 OOO 327입니다!! 이 신발은 요새 너무 핫하기 때문에 모르시는 분들이 없으실 것 같아요~~  사이즈도 정사이즈로 딱 잘 맞고 착용감이 너무 편한 신발인 것 같습니다!! 굽도 있어서 키 높이도 되어 정말 좋은 것 같네요!! 굽은 있지만 쿠션감이 있어 발이 편안해 좋았던 것 같습니다~ 착용감이 너무 좋은 신발이라 신고 뛰어도 발이 아프지 않네요!! 요새 너무 인기가 많은 신발이라 쉽게 구하기는 힘들지만 품절 되기 전에 얼른 구매 해보시길 추천 드릴게요!!  품질 좋은 신발 찾으시면 이 신발을 추천 드리고 싶습니다!! 너무 좋은 것 같아요~",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 운동화",
+    "Syllable": "330",
+    "Word": "86",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "치수/사이즈",
+        "SentimentText": "사이즈도 정사이즈로 딱 잘 맞고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "착용감이 너무 편한 신발인 것 같습니다!! ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "굽",
+        "SentimentText": "굽도 있어서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "키 높이도 되어 정말 좋은 것 같네요!!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "굽",
+        "SentimentText": "굽은 있지만 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "쿠션감이 있어 발이 편안해 좋았던 것 같습니다~",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "착용감이 너무 좋은 신발이라 신고 뛰어도 발이 아프지 않네요!! ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 좋은 신발 찾으시면 이 신발을 추천 드리고 싶습니다!!",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037956",
+    "RawText": "안녕하세요~~ ㅎㅎ 운동화 후기 요청이 많아서 야심차게 준비한 OOO 327 운동화 후기입니다!! 제가 제일 좋아하는 운동화라 자신 있게 추천 드릴 수 있겠습니다~  일단 신발 착용감이 너무 편안해서 추천 드리고 싶었어요~ 쿠션감도 있고 소재도 부드러워 오랫동안 신고 다녀도 발이 아프지 않아 좋습니다!! 색상도 예쁘고 디자인도 정말 예뻐서 신고 나가면 친구들이 신발이 정말 예쁘다고 칭찬을 해주는 것 같습니다~ 전체적인 마감 처리도 훌륭하고 새 신발 냄새도 나지 않고 신발 오염도 잘 되지 않는 소재라서 참 좋은 것 같네요~ㅎㅎ  여러모로 품질이 상당한 신발이라 꼭 추천 드리고 싶었습니다~ 구매 추천 드려요 ㅎㅎ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 운동화",
+    "Syllable": "344",
+    "Word": "87",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착화감",
+        "SentimentText": "착용감이 너무 편안해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "쿠션감도 있고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재도 부드러워",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "오랫동안 신고 다녀도 발이 아프지 않아 좋습니다!!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 예쁘고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 정말 예뻐서 신고 나가면 친구들이 신발이 정말 예쁘다고 칭찬을 해주는 것 같습니다~ ",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "전체적인 마감 처리도 훌륭하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "새 신발 냄새도 나지 않고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "신발 오염도 잘 되지 않는 소재라서 참 좋은 것 같네요~ㅎㅎ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "여러모로 품질이 상당한 신발이라",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037957",
+    "RawText": "안녕하세요!! 잘 지내셨나요? 오늘 추천 드리고 싶은 신발은 OOO 네오 퍼프 클로그입니다!! 바로 후기 알려 드리도록 할게요!!  OOO가 겨울에도 신을 수 있다는 거 아셨나요? 아마 모르시는 분들이 많으셨을 거 같습니다!! 가격 대비 품질이 좋아 저는 겨울에도 신고 다녀요!! 보온성도 뛰어나서 발이 생각보다 시렵지 않아 좋네요~~ 사이즈도 잘 맞고 신발 안에 털이 있어서 정말 따뜻한 것 같습니다!! 미끄럼 방지도 잘 되어 빙판에 올라서도 잘 미끄러지지 않아 좋네요!! 퀄리티 최고인 것 같습니다~  평소에 OOO 즐겨 신고 다니시는 분들은 겨울에도 신을 수 있는 신발이 나왔으니 꼭 신어 보세요~",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 클** 클로그 샌들",
+    "Syllable": "337",
+    "Word": "85",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": " 가격 대비 품질이 좋아",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성",
+        "SentimentText": "겨울에도 신고 다녀요!!",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "보온성도 뛰어나서 발이 생각보다 시렵지 않아 좋네요~~ ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "치수/사이즈",
+        "SentimentText": " 사이즈도 잘 맞고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "신발 안에 털이 있어서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "정말 따뜻한 것 같습니다!!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "미끄럼 방지도 잘 되어 빙판에 올라서도 잘 미끄러지지 않아 좋네요!!",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "퀄리티 최고인 것 같습니다~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성",
+        "SentimentText": "겨울에도 신을 수 있는 신발이 나왔으니 꼭 신어 보세요~",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037958",
+    "RawText": "겨울에도 OOO를 신을 수 있다는 사실 다들 아셨나요?? 오늘은 겨울용 OOO를 소개 해드리고자 왔습니다!! 바로 후기 알려 드릴게요~  많은 분들이 여름에만 OOO를 신을 수 있다고 생각을 하시지만 겨울에도 신을 수 있습니다!! 심지어 보온성이 좋아 따뜻하기 까지 하니 정말 좋은 것 같습니다!! 사이즈도 잘 맞고 디자인도 예쁘고 발도 편안해서 너무 좋은 것 같네요~ 뒷꿈치는 패딩 소재로 나와 정말 편안하고 발이 따뜻한 것 같습니다!! 눈 오는 날에 신어도 미끄럼 방지가 되어 안전하게 다닐 것 같네요!!  겨울에도 OOO를 신을 수 있다는 사실!! 꼭 구매 해서 신어 보세요~",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 클** 클로그 샌들",
+    "Syllable": "325",
+    "Word": "84",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능성",
+        "SentimentText": "보온성이 좋아 따뜻하기 까지 하니 정말 좋은 것 같습니다!! ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "치수/사이즈",
+        "SentimentText": "사이즈도 잘 맞고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 예쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "발도 편안해서 너무 좋은 것 같네요~ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "뒷꿈치는 패딩 소재로 나와 정말 편안하고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "발이 따뜻한 것 같습니다!! ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "눈 오는 날에 신어도 미끄럼 방지가 되어 안전하게 다닐 것 같네요!!",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037959",
+    "RawText": "안녕하세요! 오늘 추천 드리고 싶은 신발은 OOO 클로그입니다!! 후기 많이 궁금하셨죠~? 바로 후기 알려 드리도록 할게요!!  OOO는 너무 유명하기 때문에 긴 말 없어도 아실 것 같아요!! 가성비 정말 좋은 신발이라고 할 수 있어요!! 일단 디자인이 너무 예쁘고 색상도 정말 좋은 것 같아요!! 착용감도 너무 편안하고 무엇보다 여름에 신기 정말 좋아요~ 통기성도 잘 되어 너무 시원합니다!! 쿠션감도 있어서 발이 아프지 않아 좋네요!! 여러모로 너무 만족하며 잘 신고 다니는 신발입니다!!  OOO 신발 꼭 신어 보세요~ 한 번 신으시면 계속 신게 되실 것 같습니다 ㅎㅎ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 바** 클로그 샌들",
+    "Syllable": "321",
+    "Word": "82",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 정말 좋은 신발이라고 할 수 있어요!!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 너무 예쁘고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 정말 좋은 것 같아요!! ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": " 착용감도 너무 편안하고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성",
+        "SentimentText": "여름에 신기 정말 좋아요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "통기성도 잘 되어 너무 시원합니다!!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "쿠션감도 있어서 발이 아프지 않아 좋네요!! ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037960",
+    "RawText": "안녕하세요!! 오늘 추천 드리고 싶은 신발은 너무 유명한 OOO 클로그입니다!! 이 브랜드는 모르시는 분들이 없는 것 같아요~~  OOO는 제가 정말 좋아하는 브랜드에요~~ 이유는 일단 신기가 정말 편하기 때문입니다!! 가격도 그렇게 비싸지 않아 가성비 좋은 신발인 것 같아요~~ 개인적으로 착용감이 너무 편해서 데일리로 신고 다니기 너무 좋은 것 같네요!! 신발 디자인도 예쁘고 종류도 많아서 고르는 재미도 쏠쏠한 신발인 것 같아요~ 바닥에 미끄럼 방지 기능도 있느니 안전하게 신을 수 있습니다!!  여러모로 너무 좋은 OOO!! 아직 경험 해보시지 못하셨다면 얼른 구매 해보세요~",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 바** 클로그 샌들",
+    "Syllable": "326",
+    "Word": "79",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착화감",
+        "SentimentText": "신기가 정말 편하기 때문입니다!!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격도 그렇게 비싸지 않아 가성비 좋은 신발인 것 같아요~~",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "착용감이 너무 편해서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성",
+        "SentimentText": "데일리로 신고 다니기 너무 좋은 것 같네요!!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 신발 디자인도 예쁘고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "바닥에 미끄럼 방지 기능도 있느니 안전하게 신을 수 있습니다!!",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037961",
+    "RawText": "OOO는 뭐 너무 유명한 브랜드라 많은 분들이 아실 것 같습니다!! 그래서 오늘 여기서 제일 잘 팔리는 신발인 요 부츠를 가져 왔어요!!  이 부츠는 제가 제일 좋아하는 부츠라 정말 색 별로 다 가지고 있는 것 같아요!! 그만큼 품질이 너무 뛰어난 부츠이고 색상도 다 예뻐서 추천 드리고 싶었어요!! 일단 착용감이 너무 편안해서 오래 신어도 발이 안 아프고 사이즈도 잘 맞게 나와 있어 괜찮아요!! 지퍼도 잘 열려 좋고 무엇보다 기모가 들어 있어 보온성도 뛰어나 발이 따뜻해서 좋아요~ 디자인도 정말 예쁩니다 ㅎㅎ  진짜 나무랄 곳이 없는 부츠인 것 같아요!! 부츠 찾으시면 OOO에서 구매 하시길 바랄게요~",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 모** 부츠 ",
+    "Syllable": "340",
+    "Word": "91",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 너무 뛰어난 부츠이고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 다 예뻐서 추천 드리고 싶었어요!!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "착용감이 너무 편안해서 오래 신어도 발이 안 아프고",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "치수/사이즈",
+        "SentimentText": "사이즈도 잘 맞게 나와 있어 괜찮아요!!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "지퍼도 잘 열려 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "무엇보다 기모가 들어 있어",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "보온성도 뛰어나 발이 따뜻해서 좋아요~ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 정말 예쁩니다 ㅎㅎ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037962",
+    "RawText": "안녕하세요!! 오늘 추천 드리고 싶은 신발이 있어서 추천 드리려고 왔습니다!!~~  저는 이 신발을 신고 난 이후로는 정말 다른 신발은 신지 못하겠네요~ㅎㅎ  일단 이 신발 같은 경우에는 품질이 정말 좋은 것 같아요!! 제가 제일 좋아하는 신발이라 꼭 추천을 드리고 싶었습니다!! 착용감이 너무 편안해서 좋았고 오래 신고 다녀도 발이 아프지 않아서 좋아요~ 무게도 가볍고 시원하기 까지 해서 여름에 신어도 정말 좋은 것 같네요!! 발에 땀도 잘 차지 않아 좋았던 것 같습니다~ 역시 OOO가 신발을 참 잘 만드는 것 같아요!!  가격 대비 품질이 정말 좋은 신발인 것 같아서 추천 드리고 싶었습니다!!",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 에** 운동화",
+    "Syllable": "336",
+    "Word": "88",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 정말 좋은 것 같아요!!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "착용감이 너무 편안해서 좋았고 오래 신고 다녀도 발이 아프지 않아서 좋아요~ ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게도 가볍고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "시원하기 까지 해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성",
+        "SentimentText": " 여름에 신어도 정말 좋은 것 같네요!! ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "발에 땀도 잘 차지 않아 좋았던 것 같습니다~",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격 대비 품질이 정말 좋은 신발인 것 같아서",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037963",
+    "RawText": "안녕하세요!! OOO 매장에 최근에 갔는데 이 신발을 발견 해서 구매를 했는데 너무 좋아서 추천 드리고 싶었어요~ ㅎㅎ 바로 구매 추천 드릴게요~  확실히 품질이 너무 뛰어난 것 같아요! 전체적인 신발 퀄리티가 정말 높아서 좋았어요!! 디자인도 너무 뛰어나고 색상도 예뻐서 좋네요!! 개인적으로 오래 신고 다녀도 발이 아프지 않았던 점이 이 신발의 가장 큰 강점인 것 같아요~ 그래서 저는 운동하러 갈 때 신고 다니고 있습니다!! 통기성도 좋아서 너무 시원한 것 같아요!! 여러모로 제 마음에 쏙 드네요!!  OOO는 믿고 사게 되는 것 같아요! 발 편한 신발 찾으시면 이 신발을 추천 드릴게요!",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 에** 운동화",
+    "Syllable": "333",
+    "Word": "87",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "확실히 품질이 너무 뛰어난 것 같아요!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "전체적인 신발 퀄리티가 정말 높아서 좋았어요!!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 너무 뛰어나고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 예뻐서 좋네요!!",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "오래 신고 다녀도 발이 아프지 않았던 점이 이 신발의 가장 큰 강점인 것 같아요~ ",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성",
+        "SentimentText": "운동하러 갈 때 신고 다니고 있습니다!!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "통기성도 좋아서 너무 시원한 것 같아요!!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "발 편한 신발 찾으시면 이 신발을 추천 드릴게요!",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037964",
+    "RawText": "쪼리 후기를 알려 달라고 하시는 분들이 많으셔서 이 쪼리를 추천 드리려고 가져 왔어요!! 제가 신어보고 너무 편해서 가져 온 후기입니다~~  저도 쪼리를 너무 좋아해서 여러 쪼리를 신어 봤지만 개인적으로 이 쪼리가 착용감이 정말 좋은 것 같아요~ㅎㅎ 쿠션감도 있어서 발도 편한 것 같고 사이즈도 잘 맞아 좋네요~~ 오래 신고 다녀도 발이 아프지 않아서 좋네요!! 색상도 마음에 들고 디자인도 괜찮아서 좋네요!! 여름에 신기 너무 좋은 것 같아요~ 쪼리는 OOO에서 사는 게 역시 제일 좋은 것 같아요ㅎㅎㅎ  쪼리 찾으시면 고민 마시고 이 쪼리 구매 하세요~ 너무 좋습니다!!",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 아** 플립플랍 ",
+    "Syllable": "321",
+    "Word": "84",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착화감",
+        "SentimentText": "이 쪼리가 착용감이 정말 좋은 것 같아요~ㅎㅎ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "쿠션감도 있어서 발도 편한 것 같고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "치수/사이즈",
+        "SentimentText": "사이즈도 잘 맞아 좋네요~~ ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "오래 신고 다녀도 발이 아프지 않아서 좋네요!! ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 마음에 들고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 괜찮아서 좋네요!!",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성",
+        "SentimentText": "여름에 신기 너무 좋은 것 같아요~ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "제가 신어보고 너무 편해서 가져 온 후기입니다~~",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037965",
+    "RawText": "안녕하세요!! 요새 저는 이 신발이 너무 좋아서 추천 드리고 싶었습니다!! 제가 신어본 신발 중에서 너무 좋아서 추천 드리고 싶었어요~ㅎㅎ  일단 확실히 신발 품질이 너무 좋은 것 같아요!! 착용감이 정말 편해서 오랫동안 신어도 발이 아프지 않아서 좋은 것 같네요~ㅎㅎ 디자인도 너무 예쁘고 색상도 정말 깔끔해서 좋네요~~ 마감 처리도 너무 좋고 신발 깔창도 미끄럽지 않아 좋아요~ 여러모로 너무 좋네요!! 여러모로 너무 마음에 들어서 저는 이 신발을 꼭 추천 드리고 싶어요!  역시 OOO는 신발을 정말 잘 만드는 것 같아요~ 완전 추천 드리고 싶어요!! ㅎㅎ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 에** 운동화",
+    "Syllable": "314",
+    "Word": "81",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "확실히 신발 품질이 너무 좋은 것 같아요!! ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "착용감이 정말 편해서 오랫동안 신어도 발이 아프지 않아서 좋은 것 같네요~ㅎㅎ ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 너무 예쁘고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 정말 깔끔해서 좋네요~~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 마감 처리도 너무 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "신발 깔창도 미끄럽지 않아 좋아요~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037966",
+    "RawText": "안녕하세요!! 오늘 추천 드리고 싶은 신발은 OOO입니다!~~ 바로 구매 후기 알려 드리기 위해 왔습니다!! 한 번 신으시면 이 신발만 신으실 것 같아요~ㅎㅎ  일단 사이즈가 정말 잘 맞아서 좋았어요~~ 착용감이 정말 좋아서 괜찮네요~ㅎㅎ 발이 정말 편안해서 좋았던 것 같아요~~ 오래 신고 다녀도 발이 아프지 않아서 좋아요!! 운동할 때 신기 정말 좋은 것 같아요!! 가격 대비 정말 품질이 좋은 신발인 것 같아요!! 화이트 색상도 정말 좋아서 마음에 드네요~ㅎㅎ 미끄럼 방지도 있어서 너무 좋은 것 같네요~ 꼭 추천 드리고 싶습니다!!  여러모로 품질이 너무 뛰어난 신발이라 꼭 추천을 드리고 싶었습니다!! ㅎㅎ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 에** 운동화",
+    "Syllable": "344",
+    "Word": "87",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "치수/사이즈",
+        "SentimentText": "사이즈가 정말 잘 맞아서 좋았어요~~ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "착용감이 정말 좋아서 괜찮네요~ㅎㅎ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "발이 정말 편안해서 좋았던 것 같아요~~ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "오래 신고 다녀도 발이 아프지 않아서 좋아요!! ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성",
+        "SentimentText": "운동할 때 신기 정말 좋은 것 같아요!! ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격 대비 정말 품질이 좋은 신발인 것 같아요!!",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "화이트 색상도 정말 좋아서 마음에 드네요~ㅎㅎ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "미끄럼 방지도 있어서 너무 좋은 것 같네요~",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "여러모로 품질이 너무 뛰어난 신발이라",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037967",
+    "RawText": "안녕하세요~ㅎㅎ 오늘 추천 드리고 싶은 신발은 OOO 입니다!! 제가 제일 좋아 하는 신발이라 꼭 추천을 드리고 싶었어요!!  저는 걷는 거를 좋아해서 이 신발을 사게 되었는데 정말 착용감이 좋은 것 같아요!! 쿠션이 좋아서 오래 신고 걸어 다녀도 발이 아프지 않아 좋았던 것 같아요! 소재도 부드러워 좋고 통기성도 좋아서 발에 땀이 차지 않아 너무 좋은 것 같아요!! 데일리로 신고 다니기 정말 좋은 것 같네요~ㅎㅎ 당분간은 이 신발만 신고 다닐 것 같아요~ㅎㅎ 추천 드립니다!!  최근에 동생한테 선물로 하나 사줬는데 너무 좋아 하네요~ㅎㅎㅎ 꼭 한 번 신어 보세요!",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 에** 운동화",
+    "Syllable": "319",
+    "Word": "84",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착화감",
+        "SentimentText": "정말 착용감이 좋은 것 같아요!! ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "쿠션이 좋아서 오래 신고 걸어 다녀도 발이 아프지 않아 좋았던 것 같아요! ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재도 부드러워 좋고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "통기성도 좋아서 발에 땀이 차지 않아 너무 좋은 것 같아요!!",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성",
+        "SentimentText": " 데일리로 신고 다니기 정말 좋은 것 같네요~ㅎㅎ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037968",
+    "RawText": "안녕하세요!! 오늘 추천 드리고 싶은 신발은 OOO 아이쿠션 플립플랍입니다!! OOO은 너무 유명해서 다들 아실 것 같아요!! 바로 후기 알려 드릴게요~~  일단 가격도 할인 기간에 사서 그런지 저는 정말 저렴하게 샀던 것 같아요~ 사이즈도 너무 잘 맞았고 디자인도 예뻐서 좋네요~ 무엇보다 정말 착용감이 편해서 좋았던 것 같아요!! 발가락 사이도 아프지 않아서 좋았네요!! 쿠션도 좋아서 발이 아프지 않아 좋네요~ 여러모로 품질이 상당히 좋은 플립플랍인 것 같아요!! 저는 신고 너무 좋아서 동생 것도 하나 주문 했습니다~  여러모로 추천 드리고 싶어요~ 올 여름 슬리퍼 찾으시면 이걸로 추천 드릴게요~",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 아** 플립플랍 ",
+    "Syllable": "338",
+    "Word": "84",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 할인 기간에 사서 그런지 저는 정말 저렴하게 샀던 것 같아요~",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "치수/사이즈",
+        "SentimentText": "사이즈도 너무 잘 맞았고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 예뻐서 좋네요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "정말 착용감이 편해서 좋았던 것 같아요!! ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "발가락 사이도 아프지 않아서 좋았네요!!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "쿠션도 좋아서 발이 아프지 않아 좋네요~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "여러모로 품질이 상당히 좋은 플립플랍인 것 같아요!! ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037969",
+    "RawText": "안녕하세요!! 오늘 추천 드리고 싶은 슬리퍼는 바로 OOO 아이쿠션 플립플랍입니다!! 요새 너무 유명한 브랜드라 꼭 추천 드리고 싶었습니다!!   제가 제일 좋아하는 브랜드이기도 하고 자주 신고 다니는 슬리퍼에요!! 일단 가격 대비 품질이 정말 좋습니다~ 발가락 사이에 끼는 것도 아프지 않아 너무 좋네요~ 색상도 정말 좋고 디자인도 예쁜 것 같네요~ 착용감이 너무 좋아서 저는 여름마다 항상 신고 다니고 있습니다!! 바닥에 쿠션감도 있어서 오래 신고 다녀도 발이 아프지 않아 제일 좋습니다다 ㅎㅎ  역시 플립플랍은 여기서 구매 하는 게 제일 최고인 것 같아요!! 꼭 구매 하세요",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 아** 플립플랍 ",
+    "Syllable": "324",
+    "Word": "82",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격 대비 품질이 정말 좋습니다~ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "발가락 사이에 끼는 것도 아프지 않아 너무 좋네요~",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 정말 좋고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 예쁜 것 같네요~ ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "착용감이 너무 좋아서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성",
+        "SentimentText": "여름마다 항상 신고 다니고 있습니다!!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "바닥에 쿠션감도 있어서 오래 신고 다녀도 발이 아프지 않아 제일 좋습니다다 ㅎㅎ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037970",
+    "RawText": "안녕하세요!! 오늘 추천 드리고 싶은 신발은 OOO 양가죽 슬링백입니다!! 많은 분들이 궁금해 하신 것 같아서 후기 들고 왔습니다~ㅎㅎ  품질이 정말 좋은 신발인 것 같아요!! 색상도 너무 마음에 들고 디자인도 정말 좋아서 고급스러운 것 같습니다!! 마감 처리도 정말 잘 되어 있어 만족해요!! 소재도 부드러워 좋습니다~ 쿠션감도 느껴져서 오래 신고 다녀도 발이 아프지 않아 좋은 것 같아요~ 제품 퀄리티가 정말 좋은 신발인 것 같아요!! 꼭 한 번 신어 보시길 추천 드리고 싶습니다!!  슬링백 찾으시면 저는 이 신발로 추천 드리고 싶습니다!! 꼭 구매 해서 신어 보세요~",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 비** 양가죽 슬링백 ",
+    "Syllable": "321",
+    "Word": "83",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 정말 좋은 신발인 것 같아요!! ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 너무 마음에 들고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 정말 좋아서 고급스러운 것 같습니다!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "마감 처리도 정말 잘 되어 있어 만족해요!!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재도 부드러워 좋습니다~ ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "쿠션감도 느껴져서 오래 신고 다녀도 발이 아프지 않아 좋은 것 같아요~ ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품 퀄리티가 정말 좋은 신발인 것 같아요!! ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037971",
+    "RawText": "안녕하세요!! 이 슬링백 후기를 많이 요청을 하셔서 가져오게 되었습니다!! 바로 후기 시작하도록 할게요~ 기대 하셔도 좋습니다!!  색상이 핑크색이라 너무 예쁜 것 같아요!! 디자인도 정말 잘 되어 있는 것 같고 신어 봤는데 착용감도 너무 편안해서 좋은 것 같네요~~ 가격 대비 품질이 너무 뛰어난 것 같다고 생각이 드네요~ 굽도 높아서 키 높이도 되니까 정말 좋은 것 같아요!! 쿠션감도 있어서 오래 신고 다녀도 발이 아프지 않아 정말 좋네요~~ 이런 슬링백 찾기 힘든데 잘 산 것 같아 마음에 들어요!!  여러모로 너무 좋은 슬링백이라 추천 드리고 싶었어요!! 꼭 신어 보시길 바랄게요!!",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 비** 양가죽 슬링백 ",
+    "Syllable": "331",
+    "Word": "86",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 핑크색이라 너무 예쁜 것 같아요!!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 정말 잘 되어 있는 것 같고 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "착용감도 너무 편안해서 좋은 것 같네요~~ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격 대비 품질이 너무 뛰어난 것 같다고 생각이 드네요~",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "굽",
+        "SentimentText": "굽도 높아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "키 높이도 되니까 정말 좋은 것 같아요!!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "쿠션감도 있어서 오래 신고 다녀도 발이 아프지 않아 정말 좋네요~~",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037973",
+    "RawText": "트렌디한 디자인과 편안한 착화감을 주는 스페인 올라 스니커즈!! 여러분께 추천드립니다.   100% 핸드메이드 제품으로 품질도 너무 좋고 신었을 때 편안함까지~~ 오랜만에 신발 구매했는데 너무 만족스럽습니다. 화학적인 접착제를 전혀 사용하지 않고 식물성 접착제만을 사용하여 새신발 특유의 냄새가 전혀 없습니다. 통기성이 뛰어나고 땀이 덜 차 장시간 착화하여도 발이 정말 편하네요. 243g 의 무게로 가볍고 가죽도 너무 부드러워요. 어중간한 발사이즈는 한 사이즈 큰 걸 추천드립니다.   디자인과 실용성 둘 다 갖춘 신발입니다. 예쁜 신발 함께 하고 싶어 소개해 드려요.   ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 올** 스니커즈 4컬러 택1 ",
+    "Syllable": "322",
+    "Word": "74",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "트렌디한 디자인과",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "편안한 착화감을 주는",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "100% 핸드메이드 제품으로 품질도 너무 좋고 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "신었을 때 편안함까지~~ ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "화학적인 접착제를 전혀 사용하지 않고 식물성 접착제만을 사용하여 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "새신발 특유의 냄새가 전혀 없습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "통기성이 뛰어나고 땀이 덜 차",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": " 장시간 착화하여도 발이 정말 편하네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "243g 의 무게로 가볍고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "가죽도 너무 부드러워요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037974",
+    "RawText": "이 제품은 스페인 직수입 핸드메이드 제품의 웨지힐 샌들입니다. 정말 만족스러운 제품이여서 여러분께 소개해 드리려고 합니다.   키가 작아 굽높은 신발을 선호하는데 이 제품은 굽높이도 무려 7cm나 되어 신었을 때 비율도 좋아보이고 편하기까지 합니다. 신고 벗기 편하도록 엘라스틱 밴드로 처리되어 있고 진주 장식도 달려 있어 산뜻한 맛도 납니다. 웨지힐도 투박하지 않고 슬림한 스타일이라 발목도 가늘어 보이고 발 모양도 정말 예뻐 보여요. 소재도 천연 가죽이라 부드럽고 식물성 접착제를 사용해서 새신발 냄새도 전혀 나지 않습니다.   중간 사이즈이신 분들은 큰 사이즈로 선택하시는 걸 추천드리고 올여름 이 신발 겟하셔서 시원하고 멋지게 보내세요~~  ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 레** 웨지힐 샌들 4컬러 택1 ",
+    "Syllable": "363",
+    "Word": "86",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "굽",
+        "SentimentText": " 굽높이도 무려 7cm나 되어 신었을 때 비율도 좋아보이고",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": " 편하기까지 합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "신고 벗기 편하도록 엘라스틱 밴드로 처리되어 있고 진주 장식도 달려 있어 산뜻한 맛도 납니다. ",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 웨지힐도 투박하지 않고 슬림한 스타일이라 발목도 가늘어 보이고 발 모양도 정말 예뻐 보여요. ",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재도 천연 가죽이라 부드럽고 식물성 접착제를 사용해서",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 새신발 냄새도 전혀 나지 않습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "치수/사이즈",
+        "SentimentText": "중간 사이즈이신 분들은 큰 사이즈로 선택하시는 걸 추천드리고",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "1037975",
+    "RawText": "천연 주트(황마)와 프리미엄 가죽으로 만든 친환경 샌들을 추천드릴게요.   웨지힐 형태의 샌들로 색상도 네추럴하게 나와 멋스럽게 신을 수 있는 신발입니다. 굽높이도 약 7cm정도 되서 키도 훌쩍 커보이고 굽이 높은데도 불구하고 오래 신어도 발 불편함 없이 편안합니다. X자 스트랩은 발볼을 쫙 감싸서 안정감도 주고 발도 가늘어 보이는 효과가 있어 최고네요. 거기다가 스트랩 끝부분은 밴드로 처리되어 있어 신고 벗기도 아주 편하답니다. 중간 사이즈이신 분들은 큰 사이즈로 선택하시면 더 편안하게 신으실 수 있을 것 같아요.   멋지고 편한 샌들 신고 멋드러진 여름 보내세요~~",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 레** 웨지힐 샌들 4컬러 택1 ",
+    "Syllable": "321",
+    "Word": "78",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "천연 주트(황마)와 프리미엄 가죽으로 만든 친환경 샌들을 추천드릴게요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "웨지힐 형태의 샌들로 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 네추럴하게 나와 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "멋스럽게 신을 수 있는 신발입니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "굽",
+        "SentimentText": " 굽높이도 약 7cm정도 되서 키도 훌쩍 커보이고 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "굽",
+        "SentimentText": "굽이 높은데도 불구하고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "오래 신어도 발 불편함 없이 편안합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " X자 스트랩은 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "발볼을 쫙 감싸서 안정감도 주고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "발도 가늘어 보이는 효과가 있어 최고네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037992",
+    "RawText": "친구한테 추천을 받아서 구매를 하게 되었는데 정말 좋아서 여러분에게도 추천을 드리고 싶어서 가져 오게 되었습니다!! 바로 구매 후기 알려 드릴게요~ㅎㅎ  일단 가성비가 너무 뛰어난 것 같아요!!! ㅎㅎ 가격 대비 품질이 정말 뛰어난 것 같습니다!! 디자인도 너무 예쁘고 색상도 좋아서 괜찮네요~~ 보온성까지 있어서 따뜻한 것 같네요!! 사이즈도 잘 맞고 미끄럼 방지까지 되니까 좋았어요~ OOO 여름에만 신어야 하는 줄 알았는데 겨울에도 신을 수 있어서 정말 좋은 것 같네요!! 추천 드리고 싶습니다!!  겨울에 신기 좋은 OOO입니다!! 아직 경험 해보시지 않으셨으면 얼른 구매 해보세요~",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 클** 클로그 샌들",
+    "Syllable": "330",
+    "Word": "80",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 너무 뛰어난 것 같아요!!! ㅎㅎ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격 대비 품질이 정말 뛰어난 것 같습니다!!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 너무 예쁘고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 좋아서 괜찮네요~~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "보온성까지 있어서 따뜻한 것 같네요!!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "치수/사이즈",
+        "SentimentText": "사이즈도 잘 맞고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": " 미끄럼 방지까지 되니까 좋았어요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성",
+        "SentimentText": "OOO 여름에만 신어야 하는 줄 알았는데 겨울에도 신을 수 있어서 정말 좋은 것 같네요!! ",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성",
+        "SentimentText": "겨울에 신기 좋은 OOO입니다!! ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037993",
+    "RawText": "안녕하세요~ 잘 지내셨나요!! 오늘 진짜 추천 드리고 싶은 신발이 있어서 알려 드리기 위해 이 자리에 왔습니다!! 바로 후기 알려 드리도록 할게요~  플랫슈즈인데 제가 요새 너무 자주 신고 다니는 신발이에요~ 일단 디자인이 너무 예쁘고 색상도 좋아서 항상 신는 것 같습니다!! 많이 걸어도 발이 아프지 않아서 너무 좋은 것 같아요!! 착용감이 상당히 좋은 신발인 것 같습니다~~ 개인적으로 가성비 좋은 신발이라 다음에는 다른 색상도 한 번 구매해서 신을 것 같아요~! 여러 코디에 활용하기도 좋은 신발인 것 같네요!!  품질이 정말 좋은 플랫슈즈입니다!~~ 플랫 슈즈 찾으시면 저는 이 신발 추천 드릴게요~",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 쿠션 플랫슈즈 ",
+    "Syllable": "339",
+    "Word": "86",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 디자인이 너무 예쁘고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "많이 걸어도 발이 아프지 않아서 너무 좋은 것 같아요!! ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "착용감이 상당히 좋은 신발인 것 같습니다~~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가성비 좋은 신발이라",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "여러 코디에 활용하기도 좋은 신발인 것 같네요!!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 정말 좋은 플랫슈즈입니다!~~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037998",
+    "RawText": "안녕하세요? 키높이 효과 최고인 친환경 소재 웨지힐 샌들을 추천드립니다.   100% 손바느질로 만든 품질 좋은 착화감 정말 최고인 신발입니다. 신고 벗기 편하도록 밴드 처리도 잘 되어 있고 진주스터드의 장식과 시원한 느낌의 펀칭이 가미된 스타일리쉬한 신발입니다. 굽높이도 7cm나 되어 키도 정말 커보이고 웨지힐도 슬림하게 디자인 되어 있어 발목도 가늘어 보입니다. 바닥 쿠션도 \u0027푹신푹신\u0027 힐인데도 정말 편하네요. 중간 사이즈이신 분은 큰 사이즈로 선택하시는걸 권장드려요.   천연가죽 소재 신발입니다. 저렴한 가격에 좋은 제품 득템하세요~~",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 레** 웨지힐 샌들 4컬러 택1 ",
+    "Syllable": "305",
+    "Word": "69",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능성",
+        "SentimentText": "키높이 효과 최고인 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "친환경 소재 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "100% 손바느질로 만든 품질 좋은",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "착화감 정말 최고인 신발입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "신고 벗기 편하도록 밴드 처리도 잘 되어 있고 진주스터드의 장식과 시원한 느낌의 펀칭이 가미된 스타일리쉬한 신발입니다. ",
+        "SentimentWord": "16",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "굽",
+        "SentimentText": " 굽높이도 7cm나 되어 키도 정말 커보이고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 웨지힐도 슬림하게 디자인 되어 있어 발목도 가늘어 보입니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "바닥 쿠션도 \u0027푹신푹신\u0027 힐인데도 정말 편하네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "치수/사이즈",
+        "SentimentText": "중간 사이즈이신 분은 큰 사이즈로 선택하시는걸 권장드려요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "천연가죽 소재 신발입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037999",
+    "RawText": "이번에 추천 드리고 싶은 신발은 바로 OOOOO 에코레더 라운드토 롱 부츠입니다!! 겨울이 오니까 신으려고 최근에 주문 했는데 너무 좋아서 알려 드리고 싶었어요 ㅎㅎ  작년 겨울에 다른 브랜드 롱 부츠를 신었는데 너무 발이 불편하고 힘들어서 이번에는 OOOOO에서 구매를 하게 되었습니다!! 결론부터 말씀 드리면 품질이 정말 좋은 것 같아요!! 디자인도 너무 예쁘고 색상도 고급스러워요!! 신었을 때 착화감이 너무 좋아서 오래 신고 다녀도 발이 안 아파서 만족하고 있습니다!! 보온 기능도 좋아서 한 겨울에 신어도 발이 춥지 않네요~~  진짜 만족하며 신고 다니고 있어요!! 롱부츠는 OOOOO 제품이 정말 물건이네요~ㅎㅎ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 에** 라운드토 롱 부츠 ",
+    "Syllable": "348",
+    "Word": "84",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 정말 좋은 것 같아요!! ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 너무 예쁘고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 고급스러워요!!",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "신었을 때 착화감이 너무 좋아서 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "오래 신고 다녀도 발이 안 아파서 만족하고 있습니다!! ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "보온 기능도 좋아서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "한 겨울에 신어도 발이 춥지 않네요~~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1038131",
+    "RawText": "주말 잘 보내셨나요? 갑자기 추워진 날씨에 잔뜩 웅크리게 되네요. 오늘은 따듯한 OOO 슬리퍼 구경하실게요.  OOO 처음 사봤는데 아주 만족합니다. 생김새가 너무 귀엽고 예쁘네요. 상품평 보고 정사이즈로 샀는데 딱 맞고 좋네요. 슬리퍼라서 겨울에 신고 발시릴까 걱정했는데 쓸데없는 걱정이었다는 생각이 들어요. 신고 산책 다녀도 발 아프지 않고 푹신해요. 털이 많이 들어 있어서 정말 따뜻합니다.   가끔씩 길 가다가 넘어지는 분들도 꽤 있더라구요. 주머니에 손 넣고 다닌 건 금물입니당   ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 남여공용 클** 클로그 털슬리퍼",
+    "Syllable": "275",
+    "Word": "65",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 생김새가 너무 귀엽고 예쁘네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "치수/사이즈",
+        "SentimentText": "정사이즈로 샀는데 딱 맞고 좋네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "슬리퍼라서 겨울에 신고 발시릴까 걱정했는데 쓸데없는 걱정이었다는 생각이 들어요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "신고 산책 다녀도 발 아프지 않고 푹신해요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "털이 많이 들어 있어서 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "정말 따뜻합니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1038133",
+    "RawText": "첫인상은 믿을 만한 게 못 된다는 거 인터넷에서 물건 사본 경험 있으신 분은 다 느끼실 거에요. 캔버스화 샀더니 ㅠㅠㅠ  배송은 엄청 빠르네요. 가격도 저렴하게 샀다고 무지 좋아 했거든요. 막상 신어보니 길이는 정사이즈인데 발볼이 너무 좁아서 저한테는 안 맞네요. 볼이 약간 좁아 보이기는 했으나 이 정도로 아플 줄은 몰랐어요.  발바닥도 너무 딱딱하고 불편하네요. 아무래도 잘 안 신을 것 같아요. 많이 걸어다니는데 이런 불편한 신발을 어떻게 신겠어요. 잘못 샀어요.ㅠㅠ  신발이 편하게 생겼으면서도 제 기능을 다하지 못하는 제품들이 많더라구요. 합리적인 하루 보내시길...",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 사계절 캔버스화 ",
+    "Syllable": "322",
+    "Word": "79",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하게 샀다고 무지 좋아 했거든요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "치수/사이즈",
+        "SentimentText": "길이는 정사이즈인데 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "치수/사이즈",
+        "SentimentText": "발볼이 너무 좁아서 저한테는 안 맞네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": " 볼이 약간 좁아 보이기는 했으나 이 정도로 아플 줄은 몰랐어요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "발바닥도 너무 딱딱하고 불편하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": " 많이 걸어다니는데 이런 불편한 신발을 어떻게 신겠어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1038134",
+    "RawText": "저희 아들이 신발 하나 사달라고 하도 졸라서 이샵 저샵 기웃거리다가 초이스했네요. 소개할게요.  신발 받는 데 한참 걸리네요. 디자인이 튀지 않고 무난합니다. 바지 약간 짧게 입고 신으면 잘 어울릴 것 같아요. 재질이 합성피혁 제품인데 좀 저렴해 보이긴 하네요. 내구성도 약해서 오래 신지는 못하겠다는 생각입니다. 가격이 저렴하니까 감안하고 신어야죠. 잘 신을게요.   수만 마디 말보다 조용한 침묵이 위로가 될 때가 있죠. 그래서 침묵은 금이라고 하는가 봅니다. 다음에 또 찾아와 주세요. ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 남성 빈** 스니커즈",
+    "Syllable": "275",
+    "Word": "67",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 튀지 않고 무난합니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "바지 약간 짧게 입고 신으면 잘 어울릴 것 같아요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질이 합성피혁 제품인데 좀 저렴해 보이긴 하네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "내구성도 약해서 오래 신지는 못하겠다는 생각입니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴하니까 감안하고 신어야죠",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1038138",
+    "RawText": "클래식한 디자인이라 부모님께 선물하기에 좋아요. 스니커즈 하나 소개할게요. 끝까지 읽어 주세요~   별탈없이 배송 잘 되었습니다. 신발이 전체적으로 탄탄해 보이지 않아 조금 실망스럽네요.  색상은 화면처럼 무난하고 제 발볼 보통인데 그냥 정사이즈 신으면 될 것 같네요. 까만 바지 나 청바지 입고 신었는데 한결 젊어보이네요. 유명브랜드를 저렴하게 샀으니 인조가죽도 소 가죽이라 생각하고 아껴서 신겠습니다.  아버님이 정말 만족해 하셨다는 후기도 함께 적어 봅니다. 행복하세요.",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 남성용 가죽 스니커즈",
+    "Syllable": "266",
+    "Word": "60",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "클래식한 디자인이라 부모님께 선물하기에 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "신발이 전체적으로 탄탄해 보이지 않아 조금 실망스럽네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상은 화면처럼 무난하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "치수/사이즈",
+        "SentimentText": "제 발볼 보통인데 그냥 정사이즈 신으면 될 것 같네요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "까만 바지나 청바지 입고 신었는데 한결 젊어보이네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "유명브랜드를 저렴하게 샀으니",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "인조가죽도 소가죽이라 생각하고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1038139",
+    "RawText": "사람에게 만족감을 주는 것은 대단히 크고 중요한 게 아닌 것 같죠? 그냥 내가 그렇다고 하 면 만족스러운 거죠.  신발 만족스럽네요. 어두운 자주빛이 도는 색이라 괜찮네요. 감안하고 사긴 했지만 신어보니  엄지 발가락 아파서  적응하는데 시간이 걸릴 것 같네요. 발이 칼발인데도 엄지 발톱이 튀어 올라서 통증이 느껴지는 거 보면  사이즈가 작게 나왔네요. 그래도 앞코 모양은 맘에 드네요.   배송이 빨라서 좋아요. 얼른 받고 싶잖아요. 편안한  날들 보내세요~",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 인** 여성 리본 플랫 2.5cm ",
+    "Syllable": "258",
+    "Word": "64",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "어두운 자주빛이 도는 색이라 괜찮네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "감안하고 사긴 했지만 신어보니  엄지 발가락 아파서  적응하는데 시간이 걸릴 것 같네요",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "발이 칼발인데도 엄지 발톱이 튀어 올라서 통증이 느껴지는 거 보면 ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "치수/사이즈",
+        "SentimentText": "사이즈가 작게 나왔네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "앞코 모양은 맘에 드네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1038140",
+    "RawText": "블랙이 깔끔하고 예쁘긴 하지만 가끔씩 다른 색 신발이 아쉬울 때도 있더라구요. OO에서  나온 신발인데 함 보시죠?  저렴한 가격에 구매해서 너무 좋아요. 겨울 부츠가 필요했는데 스웨이드 소재라 아주 따뜻합 니다. 생각보다 볼도 넓어서 발이 하나도 안 불편해요. 사이즈 하나 크게 해서 양말 신으니  좋네요. 안감은 양털이 너무 부드럽게 깔려있고 밑창은 고무창이라 정말 튼튼해요. 굽도 약간  있어서 없는 것보다 훨씬 편합니다.    좋은 신발 추천드려요. 오늘은 비가 오네요. 이제 가을도 다 끝났나봐요. 그럼 이만...",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 여성 조** 양털부츠",
+    "Syllable": "292",
+    "Word": "71",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 구매해서 너무 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "스웨이드 소재라 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "아주 따뜻합 니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "치수/사이즈",
+        "SentimentText": " 생각보다 볼도 넓어서 발이 하나도 안 불편해요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "안감은 양털이 너무 부드럽게 깔려있고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "밑창은 고무창이라 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "굽",
+        "SentimentText": "굽도 약간  있어서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "없는 것보다 훨씬 편합니다.  ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "정말 튼튼해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1038141",
+    "RawText": "신랑이 사달래서 샀는데 만족스러워 합니다. 이 말 한 마디면 쇼핑할 힘이 나죠?  오후에 결제하고 다음날 바로 받았네요. 신어보니 정말 편하네요. 통기성 좋은 고어텍스라 소재가 가장 맘에 들고  가벼워서 신기 편해요. 안전화라도 모양은 군더더기 없이  꾸안꾸 느낌이네요 ㅋ 신랑이 알아서 편한 거  주문하라 했지만 그래도 고르고 골라 산 신발이라 잘 신었으면 좋겠네요. 사이즈는 정사이즈 입니다.   일부러 꾸미지 않아서 저절도 멋이 나는 사람이 되고 싶은데 어떻게 하면 될까요? ㅎ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 고어텍스 안전화 ",
+    "Syllable": "270",
+    "Word": "67",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착화감",
+        "SentimentText": "신어보니 정말 편하네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "통기성 좋은 고어텍스라 소재가 가장 맘에 들고 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서 신기 편해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "안전화라도 모양은 군더더기 없이  꾸안꾸 느낌이네요 ㅋ ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "치수/사이즈",
+        "SentimentText": "사이즈는 정사이즈 입니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1038147",
+    "RawText": "안녕하세요!! 오늘 추천 드리고 싶은 제품은 OOO 아이쿠션 플립플랍입니다!! 제가 제일 좋아하는 브랜드라 자신 있게 추천 드리고 싶어요!!ㅎㅎ  저는 조리를 너무 좋아해서 알아 보다가 이 브랜드에서 첫 구매 후 계속 여기서 사게 되는 것 같아요!! 가격 대비 품질이 너무 좋아 가성비 있게 신고 다니는 것 같습니다!! 착용감도 정말 편해서 너무 편안한 것 같아요!! 시원하기도 하고 무게도 가벼워서 너무 좋은 것 같네요~~ 여러모로 제품 퀄리티가 정말 뛰어나서 꼭 추천을 드리고 싶었습니다!!  여름 조리 찾으시면 저는 신발을 추천 드리고 싶어요!! 꼭 한번 신어 보세요~",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 아** 플립플랍 ",
+    "Syllable": "321",
+    "Word": "82",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": " 가격 대비 품질이 너무 좋아 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 있게 신고 다니는 것 같습니다!!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "착용감도 정말 편해서 너무 편안한 것 같아요!!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "시원하기도 하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게도 가벼워서 너무 좋은 것 같네요~~ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "여러모로 제품 퀄리티가 정말 뛰어나서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1038148",
+    "RawText": "최근에 친구가 이 신발을 신고 나온 것을 봤는데 너무 예뻐서 저도 구매를 하게 되었습니다~ 구매 후에 너무 만족해서 추천 드리고 싶어서 왔습니다~ㅎㅎ  사이즈도 정말 잘 맞고 무엇보다 정말 디자인이 예뻐서 좋았던 것 같아요!! 착용감도 너무 좋아서~ 추천 드리고 싶었습니다!! 오래 신고 다녀도 발이 불편하지 않아서 좋았네요~~ 재질도 고급스럽고 굽도 높아서 키도 커 보여 좋았던 것 같아요~ 가격 대비 품질이 너무 훌륭한 것 같아서 만족하네요~ 저는 앞으로도 이 앵클 부츠만 신을 것 같아요~  앵클 부츠 찾으시면 이 부츠로 추천 드리고 싶네요~ㅎㅎ 감사합니다!!",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 모** 삭스 앵클부츠 ",
+    "Syllable": "316",
+    "Word": "81",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "너무 예뻐서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "오래 신고 다녀도 발이 불편하지 않아서 좋았네요~~ ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질도 고급스럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "굽",
+        "SentimentText": "굽도 높아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "키도 커 보여 좋았던 것 같아요~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격 대비 품질이 너무 훌륭한 것 같아서 만족하네요~",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "치수/사이즈",
+        "SentimentText": "사이즈도 정말 잘 맞고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 예뻐서 좋았던 것 같아요!!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "착용감도 너무 좋아서~ ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1038149",
+    "RawText": "안녕하세요~~ 잘 지내셨나요~? 오늘 추천 드리고 싶은 신발은 OOO 무중력깔창 Vol.2 모델라인 삭스 앵클부츠입니다!! 지체 없이 바로 후기 알려 드릴게요~  일단 후기가 너무 좋아서 저도 구매를 하게 되었어요!! 배송은 빨랐고 받자 마자 보니 너무 디자인이 고급스러워서 좋았어요!! 색상도 정말 고급스럽네요~ 재질도 좋고 신발 안 소재도 너무 부드러워 좋았어요! 신어보니 키 높이도 잘 되어서 좋았고 무엇보다 착용감이 정말 편안해서 좋았던 것 같습니다!! 쿠션감도 있어 신고 오래 다녀도 발이 아프지 않아 좋네요!!  여러모로 품질이 상당히 좋은 앵클 부츠라 꼭 추천 드리고 싶었어요~ㅎㅎ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 모** 삭스 앵클부츠 ",
+    "Syllable": "332",
+    "Word": "80",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "너무 디자인이 고급스러워서 좋았어요!! ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 정말 고급스럽네요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "신발 안 소재도 너무 부드러워 좋았어요!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "키 높이도 잘 되어서 좋았고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "착용감이 정말 편안해서 좋았던 것 같습니다!!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "쿠션감도 있어 신고 오래 다녀도 발이 아프지 않아 좋네요!!",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "여러모로 품질이 상당히 좋은 앵클 부츠라 꼭 추천 드리고 싶었어요~ㅎㅎ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1038150",
+    "RawText": "안녕하세요~! 오늘 정말 대박 상품을 가져 왔습니다!! 여러분들이 너무 궁금해 하셨던 OOO 앵클 부츠를 가져 왔어요!! 바로 후기 알려 드릴게요~ㅎㅎ  확실히 요새 이 구두가 왜 인기가 많은지 신어보니 이유를 알 수 있었어요!! 굽이 정말 높은데 착용감이 너무 편안했던 것 같아요!! 정말 신고 나서 발이 편안해서 좋았고 무엇보다 밑 창에 쿠션감이 느껴져 좋았습니다!! 재질도 고급스럽고 디자인도 예쁘고 색상도 고급스러워 전체적인 퀄리티가 상당히 높은 신발인 것 같아요!! 그래서 너무 만족하며 신고 다닙니다 ㅎㅎ  전체적인 품질이 상당히 좋은 앵클 부츠에요!! 앵클 부츠 찾으시면 이 신발 추천 드릴게요!",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 모** 삭스 앵클부츠 ",
+    "Syllable": "340",
+    "Word": "84",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "굽",
+        "SentimentText": "굽이 정말 높은데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "착용감이 너무 편안했던 것 같아요!! ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "정말 신고 나서 발이 편안해서 좋았고 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": " 무엇보다 밑 창에 쿠션감이 느껴져 좋았습니다!! ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질도 고급스럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 예쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 고급스러워 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "전체적인 퀄리티가 상당히 높은 신발인 것 같아요!! ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "전체적인 품질이 상당히 좋은 앵클 부츠에요!!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1038151",
+    "RawText": "안녕하세요!! OOO은 너무 유명하죠~ 아마 모르시는 분들은 없으실 것 같아요!! 오늘은 정말 신기 좋은 OOO 플로라 가져 왔어요~ㅎㅎ  사이즈도 정말 잘 맞고 무엇보다 착용감이 너무 편해서 좋은 것 같아요!! 이래서 왜 OOO이 유명한 지 알 수 있었던 것 같아요!! 굽 높이도 적당해서 키도 커 보이고 미끄럼 방지도 있어서 정말 좋아요~ 새 신발 냄새도 많이 나지 않아서 좋네요! 오래 신고 다녀도 발이 아프지 않아 괜찮은 것 같습니다!! 디자인도 예쁘고 검정 색상이 너무 고급스러운 것 같네요~  여러모로 너무 마음에 드는 신발인 것 같습니다!! 꼭 추천 드리고 싶어요~ㅎㅎ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 플** 부츠",
+    "Syllable": "325",
+    "Word": "85",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "치수/사이즈",
+        "SentimentText": "사이즈도 정말 잘 맞고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "착용감이 너무 편해서 좋은 것 같아요!! ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "굽",
+        "SentimentText": "굽 높이도 적당해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "키도 커 보이고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": " 미끄럼 방지도 있어서 정말 좋아요~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "새 신발 냄새도 많이 나지 않아서 좋네요!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "오래 신고 다녀도 발이 아프지 않아 괜찮은 것 같습니다!!",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 예쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "검정 색상이 너무 고급스러운 것 같네요~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1038152",
+    "RawText": "안녕하세요!! 정말 제가 좋아하는 신발이라 여러분에게 추천 드리고 싶어서 가져 오게 되었습니다!! 구매 후기 바로 알려 드릴게요~ㅎㅎ  가격은 조금 비싸긴 하지만 확실히 품질이 좋은 것 같아요!! 첼시 부츠 중에서는 OOO이 제일 품질이 좋은 것 같네요!! 착용감이 너무 편안해서 좋았고 전체적인 마감 처리도 정말 고급스러워서 좋았던 것 같아요!! 디자인도 예쁘고 색상도 예뻐서 너무 마음에 들어요~ 새 신발 냄새도 나지 않아서 좋았네요~ 여러 코디에 활용하기 좋은 신발이라 요새 많이 신어요!!  첼시 부츠 찾으시면 OOO 신발로 추천 드리고 싶어요!!!",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 플** 부츠",
+    "Syllable": "311",
+    "Word": "76",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 조금 비싸긴 하지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "확실히 품질이 좋은 것 같아요!! ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "첼시 부츠 중에서는 OOO이 제일 품질이 좋은 것 같네요!! ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 예쁘고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 예뻐서 너무 마음에 들어요~ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "새 신발 냄새도 나지 않아서 좋았네요~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성",
+        "SentimentText": "여러 코디에 활용하기 좋은 신발이라 요새 많이 신어요!!",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "착용감이 너무 편안해서 좋았고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "전체적인 마감 처리도 정말 고급스러워서 좋았던 것 같아요!!",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1038153",
+    "RawText": "안녕하세요~ 잘 지내셨나요~?? 오늘 추천 드리고 싶은 신발은 OOO 본디 7 와이드입니다~~ 긴 말 필요 없이 바로 후기 알려 드릴게요!!  저는 친구 추천을 받아 구매를 하게 되었는데 이거 한 번 신고 난 이후로는 계속 이 신발만 신게 되는 것 같아요!! 정말 너무 발이 편안해서 좋았어요!! 쿠션감이 너무 뛰어나서 오래 신고 다녀도 발이 아프지 않아 좋았습니다!! 사이즈도 잘 맞고 소재가 부드러워 좋았습니다!! 보온성도 좋아서 겨울에 신고 다니기에도 너무 좋은 것 같아요!! 전체적인 퀄리티가 최고입니다!!  여러모로 품질이 너무 좋아서 꼭 추천을 드리고 싶은 신발이네요~ㅎㅎ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 본** 런닝화",
+    "Syllable": "326",
+    "Word": "82",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착화감",
+        "SentimentText": "정말 너무 발이 편안해서 좋았어요!! ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "쿠션감이 너무 뛰어나서 오래 신고 다녀도 발이 아프지 않아 좋았습니다!!",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "치수/사이즈",
+        "SentimentText": "사이즈도 잘 맞고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재가 부드러워 좋았습니다!! ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "보온성도 좋아서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성",
+        "SentimentText": "겨울에 신고 다니기에도 너무 좋은 것 같아요!! ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "전체적인 퀄리티가 최고입니다!!",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "여러모로 품질이 너무 좋아서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1038154",
+    "RawText": "취미로 요새 작은 산을 타고 있는데 마땅히 신을 신발이 없어 알아 보다가 이 신발을 사게 되었는데 너무 만족해서 후기를 알려 드리기 위해 왔습니다!!  일단 발이 너무 편안해서 좋았던 것 같아요!! 신으면 착용감이 너무 좋아서 오래 신고 걸어 다녀도 발이 아프지 않아 좋았습니다!! 뒷꿈치에 닿는 순간 느껴지는 쿠션감이 너무 푹신 해서 좋았던 것 같아요!! 등산화로 사용하기에도 너무 좋은 신발인 것 같아요!! 사이즈도 정말 잘 맞는 것 같고~ 미끄럼 방지까지 있어 좋았던 것 같습니다!! 가격 대비 품질 최고네요!!  저는 꼭 추천 드리고 싶은 신발입니다!! 저는 내일도 이 신발 신고 나갈 거에요~",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 본** 런닝화",
+    "Syllable": "336",
+    "Word": "89",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착화감",
+        "SentimentText": "발이 너무 편안해서 좋았던 것 같아요!! ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "신으면 착용감이 너무 좋아서 오래 신고 걸어 다녀도 발이 아프지 않아 좋았습니다!!",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "뒷꿈치에 닿는 순간 느껴지는 쿠션감이 너무 푹신 해서 좋았던 것 같아요!! ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성",
+        "SentimentText": "등산화로 사용하기에도 너무 좋은 신발인 것 같아요!!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "치수/사이즈",
+        "SentimentText": "사이즈도 정말 잘 맞는 것 같고~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": " 미끄럼 방지까지 있어 좋았던 것 같습니다!! ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격 대비 품질 최고네요!!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1038155",
+    "RawText": "안녕하세요~ 오늘 추천 드리고 싶은 신발은 OOO 본디 7 와이드입니다!! 최근에 이 신발 후기를 알려 달라고 하시는 분들이 많으셔서 준비를 했습니다!!  일단 확실히 신발 착용감이 좋아서 마음에 들었어요!! 정말 발이 편안해서 좋았던 것 같습니다!! 게다가 쿠션이 너무 좋아서 신고 뛰어도 발이 아프지 않아요~ 새 신발 냄새도 거의 없었고 전체적인 마감 처리가 너무 깔끔하게 잘 되어 있어 좋았네요~ 무게도 가볍고 굽도 있어 키도 커보이는 것 같습니다!! 데일리 워킹화로 추천 드리고 싶어요!! 너무 만족합니다~~  오늘 후기 마음에 드셨나요~? 큰 걱정 없이 주문 하셔도 좋을 것 같습니다!!ㅎㅎㅎ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 본** 런닝화",
+    "Syllable": "336",
+    "Word": "84",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착화감",
+        "SentimentText": "착용감이 좋아서 마음에 들었어요!!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "정말 발이 편안해서 좋았던 것 같습니다!! ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": " 쿠션이 너무 좋아서 신고 뛰어도 발이 아프지 않아요~",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 새 신발 냄새도 거의 없었고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "전체적인 마감 처리가 너무 깔끔하게 잘 되어 있어 좋았네요~",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게도 가볍고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "굽",
+        "SentimentText": "굽도 있어",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "키도 커보이는 것 같습니다!!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성",
+        "SentimentText": "데일리 워킹화로 추천 드리고 싶어요!!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1038156",
+    "RawText": "안녕하세요~오늘 추천 드리고 싶은 신발은 OOO 고 워크 에볼루션 울트라입니다!! 제가 최근에 신어보고 너무 좋아서 꼭 추천 드리고 싶은 신발이네요~  이 신발은 제가 지금까지 신었던 신발 중에 가장 편안한 것 같아요!! 그만큼 착용감이 너무 뛰어난 신발인 것 같습니다!! 정말 발이 편안하네요~ 데일리로 신기 너무 좋은 거 같아요!! 어느정도 굽 높이도 있어서 키도 커 보이고 신발 끈이 없어 신고 벗기 편한 것 같습니다~ 신을 때 마다 쿠션이 너무 푹신 해서 좋은 것 같아요!! 디자인도 예뻐서 좋네요~ㅎㅎ  여러모로 너무 마음에 들어서 추천 드리고 싶은 신발이네요~ 꼭 한 번 신어 보세요!!",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 고** 운동화",
+    "Syllable": "334",
+    "Word": "88",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착화감",
+        "SentimentText": "지금까지 신었던 신발 중에 가장 편안한 것 같아요!! ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "그만큼 착용감이 너무 뛰어난 신발인 것 같습니다!!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "정말 발이 편안하네요~ ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성",
+        "SentimentText": "데일리로 신기 너무 좋은 거 같아요!!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "굽",
+        "SentimentText": " 어느정도 굽 높이도 있어서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "키도 커 보이고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "신발 끈이 없어 신고 벗기 편한 것 같습니다~ ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "신을 때 마다 쿠션이 너무 푹신 해서 좋은 것 같아요!! ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 예뻐서 좋네요~ㅎㅎ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1038157",
+    "RawText": "멋스러우면서도 따뜻한 신발!! 겨울 신발로 이만한 장점이 어디있겠어요. OO 부츠 소개할 게요.  하체비만형 스타일이라 가죽부츠가 잘 안들어가는데 이 제품은 편안하고 부드럽게 종아리를  착 감싸줘요.  대박 편하고 바닥면까지 부드러운 융 재질이어서 따뜻함은 덤이구요. 굽도 꽤 높아 자신감도 생기고요. 스커트에도 바지에도 다 잘 어울리네요 하지만 사이즈가 크게 나왔네요.깔창 하나 깔아도 커요. 그것 빼고 아주 만족스러워요. 제가 찾던 신발이네요.  우연히 원하던 신발이나 옷 발견하면 무슨 숙제 하나 해결한 것처럼 만족스럽더라구요. 행복 한 하루 되시기를,,,",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 롱 부츠",
+    "Syllable": "314",
+    "Word": "71",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "멋스러우면서도",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": " 따뜻한 신발!!",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "편안하고 부드럽게 종아리를  착 감싸줘요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "대박 편하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "바닥면까지 부드러운 융 재질이어서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "따뜻함은 덤이구요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "굽",
+        "SentimentText": "굽도 꽤 높아 자신감도 생기고요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "스커트에도 바지에도 다 잘 어울리네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "치수/사이즈",
+        "SentimentText": "하지만 사이즈가 크게 나왔네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1038158",
+    "RawText": "저희 남편은 신발 사러 가면 고어텍스 신발만 찾더군요. 발에 땀이 많다면서...  오늘은 여러분께도 고어텍스 신발 소개해 볼게요.  아쉽지만 원산지는 베트남이네요. 중국산보다는 낫네요. ㅋ 폭풍 검색 후 최저가로 잘 구매 했습니다. 안전화 치고는 예쁩니다. 고어텍스라 신발 오래 신고 있어도 땀 안 차니 정말 좋아하더군요.  그냥 보기에는 무게가 좀 있어 불편하지 않을까 생각했는데 하루 종일 신고 있어도 좋을 만큼 편하다더군요. 그 런데 이제서야 말하는데 신발끈이 짝짝이래요. 길이가 조금 다르다는...  백 가지 장점 중 한 가지 흠이라면 흠이라고 할 것도 없죠. 그것도 장점으로 승화시키는 지혜 가 필요할 듯해요.",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 고어텍스안전화",
+    "Syllable": "346",
+    "Word": "85",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "최저가로 잘 구매 했습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "안전화 치고는 예쁩니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "고어텍스라 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "신발 오래 신고 있어도 땀 안 차니 정말 좋아하더군요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "그냥 보기에는 무게가 좀 있어 불편하지 않을까 생각했는데 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "하루 종일 신고 있어도 좋을 만큼 편하다더군요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "신발끈이 짝짝이래요. 길이가 조금 다르다는...",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1038176",
+    "RawText": "날씨가 점점 추워지는데 이럴 때는 앵클 부츠를 신어 주는 게 제일 좋은 것 같아요!! 그래서 오늘은 정말 좋은 앵클 부츠를 가져 왔습니다!! 바로 후기 시작 할게요~  일단 이 신발 같은 경우에는 정말 품질이 뛰어난 것 같아요!! 그래서 저는 이 신발을 추천 드리고 싶어요!! 재질도 정말 고급스럽고 무엇보다 디자인이 너무 예쁜 것 같아요!! 보온성도 좋아서 겨울에 신고 다녀도 발이 시럽지 않아서 좋았어요~~ 굽도 높아서 키도 커 보이는 효과가 있어 좋았던 것 같습니다!! 개인적으로 모든 면이 완벽한 앵클 부츠인 것 같아서 추천 드려요!!  여러모로 품질이 너무 뛰어난 신발이라 만족하며 신고 다녀요~",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 모** 삭스 앵클부츠 ",
+    "Syllable": "338",
+    "Word": "89",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "일단 이 신발 같은 경우에는 정말 품질이 뛰어난 것 같아요!!",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질도 정말 고급스럽고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "무엇보다 디자인이 너무 예쁜 것 같아요!!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "보온성도 좋아서 겨울에 신고 다녀도 발이 시럽지 않아서 좋았어요~~ ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "굽",
+        "SentimentText": "굽도 높아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "키도 커 보이는 효과가 있어 좋았던 것 같습니다!! ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "여러모로 품질이 너무 뛰어난 신발이라 만족하며 신고 다녀요~",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1038177",
+    "RawText": "OOOO은 너무 유명해서 모르시는 분들이 없으실 것 같습니다!! 오늘은 OOOO 플로라 후기를 알려 드리고 싶어서 오게 되었습니다!!  정말 유명한 제품이라 저도 구매를 했는데 확실히 품질이 너무 좋아서 괜찮은 것 같습니다!! 착용감도 정말 편안하고 소재도 고급스러운 것 같아요!! 굽도 있어서 키가 커 보이니 좋은 것 같습니다~~ 사이즈도 잘 맞아서 너무 좋고 무엇보다 발목 부분이 밴드로 되어 있어 좋고 신고 벗기도 편해 좋은 것 같네요!! 여러모로 너무 마음에 드는 것 같아요~ 미끄럼 방지도 되어 좋습니다!!  전체적인 퀄리티가 정말 높은 OOOO 플로라 신발입니다!! 추천 드리고 싶어요~",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 플** 부츠",
+    "Syllable": "334",
+    "Word": "83",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "확실히 품질이 너무 좋아서 괜찮은 것 같습니다!! ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "착용감도 정말 편안하고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재도 고급스러운 것 같아요!! ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "굽",
+        "SentimentText": "굽도 있어서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "키가 커 보이니 좋은 것 같습니다~~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "치수/사이즈",
+        "SentimentText": " 사이즈도 잘 맞아서 너무 좋고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "무엇보다 발목 부분이 밴드로 되어 있어 좋고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착화감",
+        "SentimentText": "신고 벗기도 편해 좋은 것 같네요!!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "미끄럼 방지도 되어 좋습니다!!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "전체적인 퀄리티가 정말 높은 OOOO 플로라 신발입니다!!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1038220",
+    "RawText": "하루하루 잘 보내고 계신가요? 여러분의 안부가 궁금해서 부랴부랴 들어왔어요. 오늘은 OOO 스니커즈 가지고 와서 인사드려요.  제품에 문제 사항이 많더군요. 바닥 밑창이 며칠 신지도 않았는데 떨어져 버렸어요. 신발 안쪽 부분에 접착제가 그대로 있어서 찝찝한 마음으로 신기는 했는데 이 정도로 빨리 망가질 줄은 몰랐네요. 그것도 두 켤레나 구매했는데 하나는 그런대로 괜찮은데, 다른 제품이 엉망이네요.  아무리 저렴한 신발이라도 그렇지 신발을 신게는 만들어줘야 하지 않나요?  제가 후기를 이렇게 쓸 정도면 얼마나 화가 났는지 아시겠죠? 님들도 항상 좋은 선택하시길 빌어요",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "패션슈즈",
+    "ProductName": "OO 스니커즈",
+    "Syllable": "319",
+    "Word": "75",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "내구성",
+        "SentimentText": "바닥 밑창이 며칠 신지도 않았는데 떨어져 버렸어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "신발 안쪽 부분에 접착제가 그대로 있어서 찝찝한 마음으로 신기는 했는데",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "이 정도로 빨리 망가질 줄은 몰랐네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "아무리 저렴한 신발이라도 그렇지",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]
